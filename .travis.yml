@@ -1,0 +1,11 @@
+language: go
+
+# blacklist
+branches:
+  except:
+    - gh-pages
+
+# whitelist
+branches:
+  only:
+    - master

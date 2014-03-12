@@ -1,0 +1,5 @@
+com.googlecode.goclipse.compiler.path=/Users/ninnemana/code/go/bin/go
+com.googlecode.goclipse.formatter.path=/Users/ninnemana/code/go/bin/gofmt
+com.googlecode.goclipse.gopath=/Users/ninnemana/code/go/golibs
+com.googlecode.goclipse.goroot=/Users/ninnemana/code/go
+eclipse.preferences.version=1

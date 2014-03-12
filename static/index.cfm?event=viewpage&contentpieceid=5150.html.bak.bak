@@ -1,0 +1,456 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	
+    <title>Trailer Hitch Installation - How to Install a Trailer Hitch </title>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta name="Description" content="The majority of receiver hitches today are no-drill applications. That means that the trailer hitch and hardware were designed to fit into existing bolt holes in the frame of the vehicle. This usually makes the job pretty simple." />
+    <meta name="Keywords" content="trailer hitch, installing hitches, install hitch, hitch installing, hitch install" />
+    <base href="" />
+    <link rel="Shortcut Icon" href="images/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/rotation.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="scripts/shadowbox/src/css/shadowbox.css" type="text/css" media="screen" />
+    
+    <script src="scripts/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.effects.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.dump.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.platformselector.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.hoverIntent.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.swfobject.min.js" type="text/javascript"></script>
+
+    <script src="scripts/swfobject/swfobject.js" type="text/javascript"></script>
+    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="/jsexternal/ajax/oyXMLRPC.js" type="text/javascript"></script>
+    <script src="scripts/shadowbox/src/js/adapter/shadowbox-jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/shadowbox/src/js/shadowbox.js"></script>
+    
+			<!-- Start Kampyle Css -->
+			<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css" />
+			<!-- End Kampyle Css -->
+		
+  </head>
+  <body>
+    <div id="container">
+      <div id="container-2">
+        <div id="header">
+          <div id="header-top">
+            <a href="index.cfm%3Fevent=home.html" id="logo" title="">
+            
+            </a>
+            <div id="header-pod">
+              <div>
+                <div style="position: absolute; left: 110px; top: 34px;">
+					 <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+				'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+				onmouseout="top.status=''; return true;"
+				onmousedown="top.status='Chat with a company representative';return true;"
+				onmouseover="top.status='Chat with a company representative';return true;">
+			<img border=0 src="http://chat.hitchinfo.com/SightMaxAgentInterface/chat.smgif?accountID=21&siteID=21&queueID=43"
+				alt="Live chat by SightMax"></a>
+                </div>
+                <div style="position: absolute; left: 110px; top: 80px;">
+                  <a href="index.cfm%3Fevent=contactus.html" title="Email Us"><img alt="Email Us" src="images/email-us.gif" /></a>
+                </div>
+              </div>
+            </div>
+            <div id="header-add-this">
+  <!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+</div>
+          </div>
+          <div id="navigation"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html" title="Home">Home</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=faq.html" title="FAQ">FAQ</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=board.html" title="Message Board">Message Board</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=guide.html" title="Hitch Finder ">Hitch Finder </a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="Videos">Videos</a>
+              
+            </div>
+          </td>
+        
+        <td>
+          <div class="menu lo">
+            <a id="new-to-towing" class="menu" href="index.cfm%3Fevent=new-to-towing.html" title="">
+              <span>NEW</span> To Towing?
+            </a>
+          </div>
+        </td>
+        <td class="last">
+          <div class="search" id="site-search">
+            <form action="http://www.hitchinfo.com/index.cfm" method="get">
+              <fieldset>
+                <input name="event" type="hidden" value="search" />
+                <input id="site-search-box" name="searchText" type="text" value="" title="Search This Site" />
+                <input src="images/search.gif" type="image" />
+              </fieldset>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        </div>
+        <div id="body"><div id="three-column" class="main">
+      <div id="right-column"><div class="highlight">
+      <div style="background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; background-repeat: no-repeat; height: 26px; padding-top: 4px;"><strong><span style=" color: #ffffff; font-size: 16px;">I WANT TO:</span></strong></div>
+<div style=" padding: 8px;"><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=guide.html"><span style="font-size: small;">Find my custom hitch</span></a><span style="font-size: small;"><strong><span style="color: #f78e1f;"><br />&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=9115.html" target="_blank"><span style="font-size: small;">Find local &amp; online hitch dealers</span></a><strong><span style=" color: #f78e1f;"><br /></span></strong><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=4934.html"><span style="font-size: small;">Browse Quick Reference Charts</span></a><span style="font-size: small;"><strong></strong></span><strong><span style=" color: #f78e1f;"><br /><span style="font-size: small;">&raquo;</span></span></strong><span style="font-size: small;"> </span><a href="index.cfm%3Fevent=contactus.html"><span style="font-size: small;">Ask THE&nbsp;HITCH&nbsp;GUYS&trade; a question!<br /></span></a></div> 
+    </div>
+    <hr /> 
+    <div class="highlight">
+      <div style=" background-repeat: no-repeat; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; height: 26px; padding-top: 4px;">
+      <span style=" color: #ffffff; font-size: 16px;"><strong>THE HITCH GUYS BLOG</strong></span>
+    </div> 
+        <div class="blog dynamo">
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              
+                <tr>
+                  <td><b>08.31.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=667.html" title="">Trailer Hitches are (NOT) Just for Trucks!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>08.02.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=659.html" title="">Trailer Wiring- Measure Twice, Drill Once</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>07.06.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=647.html" title="">Equestrianism - A Local History</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.28.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=643.html" title="">Tow Me to an Arena!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.07.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=634.html" title="">Getting Hitched in June</a></td>
+                </tr>
+              
+            </tbody>
+          </table>
+          <br />
+          <div style="text-align: right;"><a href="index.cfm%3Fevent=blog.home.html" title="View Blog Entries">View All</a></div>
+        </div>
+      
+    </div>
+    <hr /> 
+    <div class="highlight last">
+      <div style="padding-left: 5px; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-top: 4px; background-repeat: no-repeat; height: 26px;"><strong><span style=" color: #ffffff; font-size: 16px;">FAQ</span></strong></div>
+<div style="padding: 10px;"><em><strong>Can I weld my hitch to the frame?<br />Will drilling my frame void my warranty?<br />What is the purpose of a front mount hitch?</strong></em><br /><br />Find answers to these questions and many more like them in our <a href="index.cfm%3Fevent=faq.html">Frequently Asked Questions</a> directory.<br /></div> 
+    </div></div>
+      <div id="left-column"><ul class="reset" id="left-side-menu">
+    
+      <li>
+        <div class="left-sidebar-bar">About</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4928.html" title="">About HitchInfo.com</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5101.html" title="">About The Hitch Guys™</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Resource Connection</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=news.home.html" title="">Articles</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li><a href="index.html%3Fevent=faq.html" title="">FAQ</a></li>
+              
+                <li><a href="index.html%3Fevent=glossary.list.html" title="">Glossary</a></li>
+              
+                <li><a href="index.html%3Fevent=guide.html" title="">Hitch Finder </a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4934.html" title="">Quick Reference Charts</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=9115.html" title="">Where to Buy Hitches</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5143.html" title="">Hitches and Towing 101</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Communications</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=contactus.html" title="">Ask the Hitch Guys™</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4956.html" title="">Become a Blog Writer</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li>
+                  <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+                      'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+                      onmouseout="top.status=''; return true;"
+                      onmousedown="top.status='Chat with a company representative';return true;"
+                      onmouseover="top.status='Chat with a company representative';return true;">
+                    Live Chat
+                  </a>
+                </li>
+              
+                <li><a href="index.html%3Fevent=board.html" title="">Message Board</a></li>
+              
+                <li><a href="index.html%3Fevent=shareadventures.html" title="">Share Your Towing Adventures</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Galleries</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=galleryView&amp;galleryid=636.html" title="">Photos</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="">Videos</a></li>
+              
+          </ul>
+        
+      </li>
+    
+  </ul></div>
+      <div id="main-column">
+        <h1>Hitches and Towing 101</h1>
+        <div><table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="2"><span><span style="color: #000000;"><strong>CHAPTER CONTENTS</strong></span></span></td>
+</tr>
+<tr>
+<td><span>1. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5143.html">Introduction to Towing</a></span></td>
+<td>&nbsp; 7. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5149.html">Brake Controls</a></td>
+</tr>
+<tr>
+<td>2. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5144.html">Towing Components</a></td>
+<td>&nbsp; 8. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5150.html">Hitch Installation</a></td>
+</tr>
+<tr>
+<td>3. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">Types of Hitches</a></td>
+<td>&nbsp; 9. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5151.html">Hooking Up</a></td>
+</tr>
+<tr>
+<td>4. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5146.html">Determining Tow Capacity</a></td>
+<td>10. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5152.html">Tow Bars/Dinghy Towing</a></td>
+</tr>
+<tr>
+<td>5. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5147.html">Selecting Your Hitch</a></td>
+<td>11. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5153.html">Towing Safety</a></td>
+</tr>
+<tr>
+<td>6. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5148.html">Wiring/Electrical</a></td>
+<td>12. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=6576.html">Preparing Your Tow Vehicle</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<br /><span style="font-size: medium;"><strong><em>Chapter&nbsp;8 -&nbsp;Hitch Installation</em></strong><br /></span><br />If your tow vehicle did not come equipped with a trailer hitch from the factory, you'll need to install one, or have it installed for you by a professional hitch installer. <strong>The majority of receiver hitches today are "no-drill" applications.</strong> That means that the trailer hitch and hardware were designed to fit into existing bolt holes in the frame of the vehicle. This usually makes the job pretty simple and most do-it-yourselfers can successfully install a hitch very easily. Sometimes you may be required to temporarily move exhaust components out of the way but even then, the job shouldn't be too difficult. Some applications require fascia trimming so you will want to be very careful and <strong>TAKE YOUR TIME</strong>.</p>
+<p>&nbsp;</p>
+<p>There are some applications that may require an extensive, mechanical background to install. In this event, unless you possess excellent mechanical abilities, you may wish to consider having a professional installer do the job for you. If you bring your own hitch to a professional installer you can expect to pay hourly shop rates to have the pro do the work. You may be able to get a better total deal by purchasing the hitch and the installation from the professional hitch installer.</p>
+<p>&nbsp;</p>
+<table style="width: 465px; height: 91px; border: #e0922f 3px solid;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td><span style="font-family: times new roman,times;"><span style="font-size: small;"><span style="font-family: verdana,geneva;"><strong><em><img style="margin: 5px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/9BD1CA87-0CC7-0E11-EF7D-5CC28F1FEF1B.jpg" alt="The Hitch Guys Tip" width="100" height="61" />Go online&nbsp;&amp; look at the installation instruction sheet for the hitch you are selecting&nbsp;&amp; then decide if this is something you should tackle or leave to the experts.</em></strong></span></span></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<br /><strong>Get the Right Tools for the Job<br /><br /></strong></p>
+<p>To install your hitch so it stays installed, you need to have the right tools - don't tackle this with a pair of pliers and a crescent wrench! At a minimum, you'll want these tools:<img style="float: right; margin: 10px;" title="Hitch Installation Tools" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/FE9FB4B1-6BEC-BAE5-569F-8D65270CC59E.jpg" alt="Hitch Installation Tools" width="250" height="188" /></p>
+<ul>
+<li>A set of good combination box/open end wrenches in both SAE (standard) and Metric sizes up to at least &frac34;-inch and 19mm. </li>
+<li>A good wiring kit, including a proper stripping and crimping tool and good electrical connectors, plus a roll of electrician's tape. Heat-shrink tubing is even better. If you have a custom T-Connector application, you should not need any of these accessories. T-Connectors are basically plug in and go.</li>
+</ul>
+<p>If you have these tools, your job will be even easier:</p>
+<ul>
+<li>A good rachet wrench and set of &frac12;-inch drive sockets in both SAE and Metric up to &frac34;-inch and 19mm,</li>
+<li>An air impact wrench and appropriate heavy-duty sockets - but be careful ot to over tighten.</li>
+<li>A torque wrench and appropriate sockets. </li>
+</ul>
+<p>Additionally, you may need a jack and jackstands to raise your vehicle safely to perform the installation. Always use safe work practices and never get under a jacked-up car without using quality jack stands to support the vehicle.</p>
+<p>&nbsp;</p>
+<p>You may also need snips or other tools if your vehicle requires any cutting of bumper fascias or other materials to install the hitch. This is where the installation instructions come in handy. See Figure 8-1 for an example of installation instructions for a particular hitch on a Chevy &frac34;-ton pickup. For this installation, you need a &frac34;-inch wrench to tighten the main frame bolts, plus a 21mm wrench for the two bolts that attach the hitch to the welded nuts in the bumper. You also need a means to cut the bumper trim for access to the welded nuts. Read through your instructions carefully and assemble the required tools before you begin installation.</p>
+<p>&nbsp;</p>
+<p><strong>Installing Your Hitch Receiver</strong><br /><br />As previously mentioned, many pickup trucks, SUVs and RVs come with some holes pre-drilled at the back of the frame to accommodate a hitch receiver, and in these cases it's very likely that the hitch you buy will have matching holes, if the hitch was designed to fit your particular make and model of vehicle.<br /><img style="border: 0pt none; margin: 10px; vertical-align: text-bottom;" title="Class 3 RV Receiver Hitch" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/2488/358A7D66-BEA3-E2E2-1789-04069D99C993.jpg" alt="Class 3 RV Receiver Hitch" width="400" height="267" /><br /><strong><em>Figure 8-1: Class 3 RV Hitch</em></strong><br /><br />However, even if your vehicle's frame is not pre drilled, you can drill the necessary holes with an ordinary heavy-duty &frac12;-inch chuck handheld drill and bolt your receiver into place. Most receivers will come with the necessary nuts, bolts and washers to complete the job. Make sure you follow the manufacturer's directions exactly and tighten all fasteners securely.<br /><br /><br /></p>
+<table style="width: 465px; height: 91px; border: #e0922f 3px solid;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td><span style="font-family: times new roman,times;"><span style="font-size: small;"><span style="font-family: verdana,geneva;"><strong><em><img style="margin: 5px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/9BD1CA87-0CC7-0E11-EF7D-5CC28F1FEF1B.jpg" alt="The Hitch Guys Tip" width="100" height="61" />Thread locking treatments such as Loc-Tite are a great idea. Even if your hardware kit includes lock washers or locking nuts, it never hurts to have a little extra security.</em></strong></span></span></span></td>
+</tr>
+</tbody>
+</table>
+<p><em><span style="background-color: #ff9900;"><br /></span></em></p>
+<p><img style="margin: 10px; vertical-align: text-bottom;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/773C6902-A7EB-3200-CA3E-4C730DB5E6F2.jpg" alt="Well Installed Hitch" width="300" height="166" /><br /><strong><em>Figure 8-1: A well-installed hitch</em></strong></p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>A typical hitch installation goes like this: </strong></p>
+<ol>
+<li>Get your car or truck as high as safely possible to give yourself room to work. Use jack stands to make sure it doesn't fall on you.</li>
+<li>Get under the vehicle with good light at the installation instruction sheet and locate all the bolt holes and other connections you need to make. If you need to lower or remove the spare tire to perform the installation, do that now. Also, perform any trimming or cutting at this point.</li>
+<li>If the installation involves dropping a carriage bolt through a hole in the frame, pointing downwards (and this is usually the case), do that now, so you can offer up the hitch to the frame as easily as possible. In many cases, two of the bolts drop through the frame, and two are installed up through the hitch with the nuts on top of the frame.</li>
+<li>Bring the hitch under the vehicle and place it in position. Some hitches weigh a lot - up to 50 pounds or more, so you might want to use a jack or other support. If you have a helper, get them to place the washers and/or spacers and start the nuts on at least one bolt per side. Generally speaking you'll be using lock-nuts of some kind, so once the nut is started, you'll need a wrench to turn it.</li>
+<li>Tighten all nuts and bolts to the specified torque.</li>
+</ol>
+<p>And that's all there is to it! Of course, there's still the wiring to do, and that's covered in Chapter 6.</p>
+<p>&nbsp;</p>
+<table style="width: 465px; height: 91px; border: #e0922f 3px solid;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td><span style="font-family: times new roman,times;"><span style="font-size: small;"><span style="font-family: verdana,geneva;"><em><strong><img style="margin: 5px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/9BD1CA87-0CC7-0E11-EF7D-5CC28F1FEF1B.jpg" alt="The Hitch Guys Tip" width="100" height="61" />If the bolts are just hanging in the frame, use some duct tape over the bolt heads to keep them in place while you get the bolt&nbsp; ends through the holes in the hitch.</strong></em></span></span></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong><br /><br />Installing the Ball Mount</strong> <br /><br />See Chapter 5 for information on selecting the correct <a class="glossary" href="index.html#">ball mount</a>. You want to make sure that your trailer and tow vehicle each sit level when they are connected, and the rise or drop in your ball mount should account for any ride height differences. You also want to make sure that the ball mount is long enough to extend the tow ball safely out from your vehicle, but not so far that leverage multiplies the trailer's tongue weight on the receiver.</p>
+<p>&nbsp;</p>
+<p><span style="background-color: #ffffff;"><em><strong>&nbsp;</strong></em></span>&nbsp;&nbsp;</p>
+<table style="width: 465px; height: 58px; border: #e0922f 3px solid;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td style="border: #a9a9a9 1px solid;"><img style="margin: 5px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/9BD1CA87-0CC7-0E11-EF7D-5CC28F1FEF1B.jpg" alt="The Hitch Guys Tip" width="100" height="61" /><span style="font-family: verdana,geneva;"><span style="font-size: small;"><strong><em>Consider using an anti-rattle device to help stop annoying rattles&nbsp;&amp; even help prevent swaying of the load.</em></strong></span></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img style="margin: 10px; vertical-align: text-bottom;" title="Rise, Drop, Length in a Ball Mount" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1919/9B3F33E5-83E8-6D3D-9E70-BFA789BC2FAC.jpg" alt="Rise, Drop, Length in a Ball Mount" width="440" height="113" /></p>
+<p style="text-align: center;"><strong><em>Figure 8-1: Rise, Drop, and length in an installed ball mount</em></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: left;">Installing the towing ball on the ball mount is just like installing the hitch receiver to your tow vehicle. You want to use the hardware provided with the ball, which may include a sleeve (or reducer bushing)&nbsp;to occupy any<br />extra space between the ball shaft and the hole in the ball mount.</p>
+<p style="text-align: center;"><strong><em>&nbsp;</em></strong></p>
+<p><em>&nbsp;</em></p>
+<table style="width: 465px; height: 91px; border: #e0922f 3px solid;" border="3" cellpadding="3" align="center">
+<tbody>
+<tr>
+<td style="border: #a9a9a9 1px solid;"><img style="margin: 5px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/9BD1CA87-0CC7-0E11-EF7D-5CC28F1FEF1B.jpg" alt="The Hitch Guys Tip" width="100" height="61" /><span style="font-family: times new roman,times;"><span style="font-size: small;"><strong><em><span style="font-family: verdana,geneva;">Never install a tow ball with excess space between the ball shaft&nbsp;&amp; the ball mount hole. No matter how much you tighten the nut, the ball will still move&nbsp;&amp; it will tend to come loose.</span></em></strong></span></span></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br />As with your hitch receiver, use some thread locking treatment when you install a ball into the ball mount.<br /><img style="margin: 10px; vertical-align: text-bottom;" title="Ball Mount with Significant Drop" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/CEF1660A-9D27-EB1D-2D83-BF44C9371F18.jpg" alt="Ball Mount with Significant Drop" width="150" height="250" /><br /><strong><em>Figure 8-2: Ball mount with significant drop</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Ball Mount Rise" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/3688B6BC-965D-AE83-6A5B-F51D92953C07.jpg" alt="Ball Mount Rise" width="150" height="250" /><br /><strong><em>Figure 8-3: Turn your ball mount over if you need rise<br /></em></strong><br />If you tow several trailers, you may find it convenient to purchase a separate ball mount for each one,&nbsp;or an adjustable ball mount.&nbsp;In addition to differing ball sizes between light and heavy trailers, each trailer has its own ride height and will need a different rise or drop in the ball mount. You might also use a "universal hitch ball" that allows you to switch sizes of balls without having to remove the shank.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: left;" width="50%"><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5149.html">&lt;&lt; Back to Chapter 7</a></td>
+<td style="text-align: right;" width="50%"><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5151.html">Go to Chapter 9 &gt;&gt;</a></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+      <div class="clear"></div>
+    </div></div>
+        <div id="footer"><!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+<br />
+  <br />
+  <div style="font-weight: bold; padding-bottom: 5px;">Hitchinfo.com is maintained by <a href="http://www.curtmfg.com" title="Curt Manufacturing">CURT Manufacturing LLC</a> – a Wisconsin-based manufacturer of towing products</div>
+  <a href="http://www.curtmfg.com" title="Curt Manufacturing"><img alt="Curt Manufacturing" src="images/curt-new.gif" /></a><br />
+  <a href="http://www.facebook.com/curthitch" target="_blank"><img src="images/facebook_32.png" alt="Facebook - Curt Hitches" /><span style="vertical-align: top; color: #365897; line-height: 2.8; font-size: 12px; font-weight: bold;"> Find us on Facebook</span></a>
+  <br />
+  <a href="index.cfm%3Fevent=sitemap.html" title="">Sitemap</a>&nbsp;&nbsp;&bull;&nbsp;
+  <a href="index.cfm%3Fevent=privacypolicy.html" title="">Privacy Policy</a></div>
+      </div>
+    </div>
+	<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-10135356-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+	
+		<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/"  target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=8203542&amp;form_id=33491&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"/></a></div>
+		<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+		<!--End Kampyle Feedback Form Button-->
+	
+  </body>
+</html>

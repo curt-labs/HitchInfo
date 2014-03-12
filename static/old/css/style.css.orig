@@ -1,0 +1,70 @@
+/* creating my own default tag settings */
+.button {cursor: pointer; padding: 4px 10px; *padding: 3px 5px;}
+.error-text {color: red;}
+.success-text {color: blue;}
+.disabled {color: silver;}
+.double-arrows {font-family: Arial; font-size: 130%;}
+.typeless li {list-style: none;}
+
+.big {font-size: 16px;}
+.bold {font-weight: bold;}
+.uppercase {text-transform: uppercase;}
+.lowercase {text-transform: lowercase;}
+
+.clear {clear: both;}
+.center {text-align: center;}
+
+a.hover-underline {text-decoration: none;}
+a.hover-underline:hover {text-decoration: underline;}
+
+a.partial-underline {text-decoration: none;}
+a.partial-underline > * {text-decoration: underline;}
+a.partial-underline > *.double-arrows {text-decoration: none;}
+
+.photo-frame {background-color: white; border: 1px solid #dddddd; padding: 10px;}
+.block {display: block;} /* made for img tag */
+/* end of creating my own default tag settings */
+
+/* Layouts */
+table.form-layout {empty-cells: show; table-layout: fixed; width: 100%;}
+
+table.form-layout > * > tr > th,
+table.form-layout > * > tr > td {margin: 0px; padding: 0px; font-family: inherit; vertical-align: top;}
+
+table.form-layout > * > tr > th {font-weight: normal; text-align: left;}
+table.form-layout > * > tr > td {text-align: right;}
+
+table.form-layout > caption {padding-bottom: 10px; text-align: center;}
+table.form-layout > tfoot > tr > td, table.form-layout > tfoot > tr > th {padding-top: 10px;}
+table.form-layout > tbody > tr > td {margin: 0px; padding: 0px; font-family:inherit; vertical-align: top;}
+table.form-layout > tbody > tr > th {vertical-align: middle;}
+table.form-layout > tbody > tr > th.label-top {padding-top: 10px; vertical-align: top;}
+
+table.form-layout > tbody > tr.required > th {background: transparent url(../images/reusable/req.gif) center right no-repeat; padding-right: 15px;}
+input.invalid[type=text] {background-color: #ffffcc; border: 1px solid #ffaaaa;}
+
+table.form-layout > tbody > tr > td > div {margin: 2px 5px; padding-right: 6px;} /* 2px (input padding), 4px (input border) */
+table.form-layout > tbody > tr > td > div.left {margin-left: 0px;}
+table.form-layout > tbody > tr > td > div.right {margin-right: 0px;}
+table.form-layout input[type=text],
+table.form-layout textarea {border: 1px solid #9cbed2; color: #555555; font-family: Arial; font-size: 20px; padding: 1px; width: 100%;}
+/* End Of Layouts */
+
+/* Test Layouts */
+table.test-form-layout {empty-cells: show; table-layout: fixed; width: 100%;}
+table.test-form-layout th,
+table.test-form-layout td {font-size: 11px; font-weight: normal; margin: 0px; padding: 0px; font-family: inherit; text-align: right; vertical-align: top;}
+table.test-form-layout th {line-height: 17px;}
+table.test-form-layout td {}
+table.test-form-layout caption {padding-bottom: 10px; text-align: center;}
+table.test-form-layout th:first-child {text-align: left;}
+table.test-form-layout td label {display: block; font-size: 11px; padding-bottom: 5px; padding-left: 7px; text-align: center;}
+table.test-form-layout td div {margin: 0px 5px; padding-right: 7px;} /* 5px (input padding), 2px (input border) */
+table.test-form-layout td div.left {margin-left: 0px;}
+table.test-form-layout td div.right {margin-right: 0px;}
+table.test-form-layout td div input[type=text],
+table.test-form-layout td div textarea {border: 1px solid #9cbed2; font-family: Arial; font-size: 13px; padding: 1px; width: 100%;}
+table.test-form-layout td div.select {margin: 0px 5px; padding-right: 3px;}
+table.test-form-layout td div select {color: #555555; font-family: Arial; font-size: 13px; *font-size: 11px; *margin-top: 1px; width: 100%;}
+.invalid {background-color: #ffffcc; border: 1px solid #ffaaaa;}
+/* End of Test Layouts */

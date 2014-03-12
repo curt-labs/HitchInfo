@@ -1,0 +1,260 @@
+/* Blog */
+div#blog div.post h2 {font-size: 18px; line-height: 1;}
+div#blog div.post h2 a {color: black; text-decoration: none;}
+div#blog div.post small {color: #777; font-size: 11px;}
+div#blog div.post div.entry {font-size: 11px; line-height: 1.5;}
+div#blog div.post p.postmetadata a {text-decoration: none;}
+div#blog div.post p.postmetadata a:hover {text-decoration: underline;}
+
+div#blog h3#comments {margin-bottom: 20px;}
+div#blog div.comment {border-bottom: 1px solid #eeeeee; margin-bottom: 10px; padding-bottom: 10px;}
+div#blog div.comment cite {}
+div#blog div.comment small.commentmetadata a {}
+div#blog div.comment p.comment {font-size: 11px; line-height: 1.5; margin-top: 10px;}
+
+div.comment-form {margin-top: 20px;}
+div.comment-form div.successBox {background: #fffbcc url(../images/reusable/chk_on.gif) no-repeat 5px center; padding: 5px;
+  padding-left: 25px; border: 1px solid #e6db55; margin-top: 10px;}
+div.comment-form div.errorBox {background: #ffaaaa url(../images/reusable/chk_off.gif) no-repeat 5px center; padding: 5px;
+  padding-left: 25px; border: 1px solid #ff7777; margin-top: 10px;}
+
+div#recaptcha_widget_div
+{
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+div#recaptcha_area {margin:0;padding:0;}
+
+.smallestTag { font-size: 12px; }
+.smallTag { font-size: 16px; }
+.mediumTag { font-size: 20px; }
+.largeTag { font-size: 24px; }
+.largestTag { font-size: 28px; }
+
+div.highlight div.blog a {color: black;}
+/* End Of Blog */
+
+/* News */
+div#news.home {margin-top: 40px;}
+div#news div.article {}
+div#news div.article img.image {margin-right: 10px; width: 140px;}
+div#news div.article td.entry {vertical-align: top;}
+div#news div.article td.entry h2 {font-size: 18px; line-height: 1;}
+div#news div.article td.entry h2 a {color: black; text-decoration: none;}
+div#news div.article td.entry h2 a:hover {text-decoration: underline;}
+div#news div.article div.entry {padding-top: 15px; padding-bottom: 20px;}
+div#news div.article div.links {color: #008c43; text-decoration: none; width: 245px;}
+div#news div.article div.links a {text-decoration: none;}
+div#news div.article div.links a:hover {text-decoration: underline;}
+div#news div.article div.links table.reset {table-layout: fixed; width: 245px;}
+div#news div.article div.links table.reset td.right {text-align: right;}
+div#news hr {margin: 20px 62px; *margin: 10px 62px; width: 264px;}
+
+div#news-article p.postmetadata {font-size: 11px; font-style: italic;}
+
+div.bottom-links {color: orange; margin-top: 20px; text-decoration: none;}
+div.bottom-links a {text-decoration: none;}
+div.bottom-links a:hover {text-decoration: underline;}
+
+div.highlight div.news a {color: black;}
+/* End of News */
+
+/* FAQ */
+ul#faq-menu {list-style: none; margin: 0; padding: 0;}
+ul#faq-menu a.faq-topic {background: #fba431 url(../images/orange-bar.gif) repeat-x bottom left; color: white; display: block;
+  font-size: 14px; font-weight: bold; padding: 5px 12px; text-decoration: none; text-transform: uppercase;}
+ul#faq-menu ul {color: orange; margin: 0; padding: 10px 0px 0px 20px;}
+ul#faq-menu li li {list-style: square outside; margin-left: 10px; margin-right: 10px; padding: 0px 0px 10px 0px;}
+ul#faq-menu a.faq-question {color: black; line-height: 1.3; text-decoration: none;}
+ul#faq-menu a.faq-question:hover, ul#faq-menu a.faq-question.faq-active {color: #f89530; text-decoration: underline;}
+/* End Of FAQ */
+
+/* Gallery */
+div#gallery div#gallery-menu {font-size: 16px; text-align: center;}
+div#gallery div#gallery-menu a {text-decoration: none;}
+div#gallery div#gallery-menu a:hover {text-decoration: underline;}
+div#gallery div#gallery-thumbs {padding-left: 20px; text-align: center;}
+div#gallery div#gallery-thumbs a {text-decoration: none;}
+div#gallery div#gallery-thumbs a img {*filter: alpha(opacity=100); opacity: 1.0; background-color: white; border: 1px solid #dddddd; padding: 2px; margin-right: 10px; margin-top: 10px;}
+div#gallery div#gallery-thumbs a:hover img {*filter: alpha(opacity=50); opacity: 0.5;}
+div#gallery-menu a {text-decoration: none;}
+div#gallery-menu a:hover {text-decoration: underline;}
+div#gallery div.pagination {font-size: 14px; padding: 10px 0px;}
+/* End Of Gallery */
+
+/* Glossary */
+div#glossary h3 {font-size: 16px;}
+div#glossary h4 {color: #f98d20; font-size: 14px;}
+/* End Of Glossary */
+
+/* Pagination UI Pattern */
+div.pagination {text-align: center;}
+div.pagination span.page-numbers * {border: 1px solid #f88e20; padding: 2px 6px;}
+div.pagination span.page-numbers a {text-decoration: none;}
+div.pagination span.page-numbers a {color: #f88e20;}
+div.pagination span.page-numbers a:hover {background-color: #f88e20; color: white;}
+div.pagination span.page-numbers b {font-weight: normal;}
+div.pagination span.page-numbers b {background-color: #f88e20; color: white;}
+
+div.simple-pagination {text-align: right;}
+/* End Of Pagination UI Pattern */
+
+/* Search Results */
+div#search-results-box {background-color: #888888; border: 1px solid #444444; margin: 10px 0px; padding: 10px 0px; text-align: center;}
+div#search-results-box input#results-search-box {border: 1px solid #9cbed2; color: #555555; font-family: Arial; font-size: 20px; padding: 2px; width: 300px;}
+div#search-results-box input {vertical-align: middle;}
+
+div.results h2 {background-color: #efefef; border: 1px solid #cccccc; margin: 5px 0px; padding: 5px;}
+div.results h2 span.info {font-weight: normal;}
+
+div#news-search-results {padding-bottom: 10px;}
+div#news-search-results  ul {margin: 0px; padding: 0px;}
+div#news-search-results  ul li {border-top: 1px solid #cccccc; list-style: none; margin: 0px; margin-top: 10px; padding-top: 10px;}
+div#news-search-results  ul li:first-child {border: 0px; margin-top: 0px; padding-top: 0px;}
+div#news-search-results  ul li a {display: block; font-size: 15px; line-height: 1; margin-bottom: 5px;}
+div#news-search-results  ul li p {font-size: 12px;}
+div#news-search-results  ul li p span.searchTerm {font-size: 116.66%; font-weight: bold;}
+
+div#site-search-results {padding-bottom: 10px;}
+div#site-search-results  h3 {font-weight: normal; text-align: center;}
+div#site-search-results  ul {margin: 0px; padding: 0px;}
+div#site-search-results  ul li {border-top: 1px solid #cccccc; list-style: none; margin: 0px; margin-top: 10px; padding-top: 10px;}
+div#site-search-results  ul li:first-child {border: 0px; margin-top: 0px; padding-top: 0px;}
+div#site-search-results  ul li a {display: block; font-size: 15px; margin-bottom: 5px;}
+div#site-search-results  ul li p {font-size: 12px;}
+div#site-search-results  ul li p span.searchTerm {font-size: 116.66%; font-weight: bold;}
+div#site-search-results  div.pagination {border-top: 1px solid #cccccc; font-size: 16px; margin-top: 10px; padding-top: 10px; text-align: center;}
+/* End Of Search Results */
+
+/* Share Adventures */
+div#share-adventures h3 {background-color: #dddddd; border-top: 3px solid orange; font-size: 18px; font-weight: normal; margin-bottom: 5px; padding: 5px;}
+/* End Of Share Adventures */
+
+/* Search Wrapper */
+div.search input {vertical-align: middle;}
+input#site-search-box, input#site-search-box-articles, input#email-address {border: 1px solid black; font-family: "Trebuchet MS"; font-size: 12px; padding-left: 5px; width: 140px;}
+input#site-search-box-articles {width: 120px;}
+/* End Of Search Wrapper */
+
+/* Survey */
+div#survey-result h3 {font-size: 20px;}
+div#survey-result table.bar {border: 1px solid #dddddd; width: 80%; margin: 0 10%;}
+div#survey-result table.bar caption.answer {font-size: 120%; font-weight: bold; margin-left: 5%; text-align: left;}
+div#survey-result table.bar td.bar-color {background-color: #aaaaaa; border: 1px solid; border-color: #dddddd #555555 #555555 #dddddd;}
+div#survey-result table.bar td.bar-percentage {background-color: #eeeeee; padding: 0 0.3em;}
+div#survey-result div.total-votes {font-size: 120%; font-weight: bold; margin: 0 10%; text-align: right; width: 80%;}
+
+div#survey-list h3 {font-size: 16px;}
+div#survey-list div.old-poll {margin-top: 5px;}
+div#survey-list div.old-poll small {font-family: Arial; font-size: 11px; font-style: italic;}
+
+div#survey-question h3 {font-size: 20px;}
+/* End Of Survey */
+
+/* Nav */
+div#navigation {background: transparent url(../images/nav-bg.gif) repeat-x top left; font-family: "Trebuchet MS"; height: 55px;}
+div#navigation a.menu {color: black; display: block; font-size: 14px; height: 55px; line-height: 55px; padding: 0px 20px; text-align: center; text-decoration: none;}
+div#navigation div.hi a.menu, div#navigation a.active {background-color: #f88e20; color: white; text-decoration: underline;}
+div#navigation table {table-layout: auto; width: 898px;}
+div#navigation table td {background: transparent url(../images/nav-divider.gif) no-repeat top right; padding-right: 1px; vertical-align: middle;}
+div#navigation table td.last {background: none;}
+
+div#navigation div.menu {position: relative;}
+div#navigation div.menu ul {background-color: #f88e20; border: 1px solid white; border-width: 0px 1px 1px; display: none; left: 0px; position: absolute; top: 55px; width: 200px;}
+div#navigation div.menu ul a {border-top: 1px solid white; color: black; display: block; padding: 10px; text-decoration: none;}
+div#navigation div.menu ul a:hover {background-color: #ff9f40; color: black; text-decoration: underline;}
+
+div#navigation div.menu:hover ul {display: block;}
+
+a#new-to-towing span {color: #f88e20;}
+div.hi a#new-to-towing span {color: black;}
+div.search {padding: 0px 20px; text-align: center;}
+/* End Of Nav */
+
+/* creating project specific default tag settings (change from project to project) */
+a {color: #008c43;}
+h1 {color: #f98d20; font-family: Georgia; font-size: 20px; font-style: italic; margin-bottom: 5px;}
+h2 {font-size: 18px; color: black;}
+/* end of creating project specific default tag settings (change from project to project) */
+
+/* Positioning (Layout) */
+html {background: transparent; color: black;}
+body {background: white url(../images/html-bg.gif) repeat-y top center; font-family: Arial; font-size: 12px; min-width: 918px; text-align: center;}
+.ie_6 td {font-size: 12px;}
+div#container {margin: 0px auto; text-align: left; width: 918px;}
+#container-2 {padding: 0 9px;}
+div#header {border: 1px solid white; border-top: 0; position: relative;}
+div#header-top {height: 164px; position: relative;}
+div#header-pod {background: transparent url(../images/talk-to-the-hitch-guys.gif) no-repeat top left; position: absolute; top: 5px; left: 600px; height: 112px; width: 300px; text-align: center;}
+div#header-pod a {color: black; text-decoration: none;}
+div#header-pod a:hover {text-decoration: underline;}
+div#header-add-this {position: absolute; top: 138px; right: 10px;}
+a#logo {background: transparent url(../images/logo.gif) no-repeat top left; color: black; display: block;
+  font-family: Verdana; font-size: 50px; height: 105px; left: 13px; position: absolute; text-align: right; text-decoration: none; top: 45px; width: 344px;}
+
+div#three-column {background: white url(../images/three-column-bg.gif) repeat-y top left; *overflow: hidden;}
+div#two-column {background: white url(../images/two-column-bg.gif) repeat-y top left;}
+div#flash-rotation {background-color: white; padding: 0px 1px 1px; float: left;}
+div#left-column {clear: left; float: left; width: 200px;}
+div#right-column {clear: right; float: right; width: 289px;}
+div#main-column {font-family: Georgia; line-height: 1.4; margin-left: 205px; padding: 5px 0;}
+div#three-column div#main-column {width: 400px;}
+div#two-column div#main-column {margin-left: 220px; width: 675px;}
+
+#three-column.main {background-image: url(../images/three-column-new-bg.gif);}
+#three-column.main #main-column {margin-left: 220px; padding: 20px 0; width: 440px;}
+#three-column.main #right-column {width: 200px;}
+
+div#left-column {font-family: Georgia;}
+div#left-column ul#left-side-menu {padding: 20px 0px;}
+div#left-column ul#left-side-menu  div.left-sidebar-bar {background: #a2c9ff url(../images/left-sidebar-bar.gif) no-repeat top left; border: 1px solid white; border-width: 1px 0;
+  font-size: 16px; height: 27px; line-height: 27px; padding-left: 25px;}
+div#left-column ul#left-side-menu ul {padding: 10px 0px;}
+div#left-column ul#left-side-menu li li {line-height: 1.4; list-style-image: url(../images/right-arrow.gif); margin-left: 35px; padding-right: 15px;}
+div#left-column ul#left-side-menu a {color: black; text-decoration: none;}
+div#left-column ul#left-side-menu a:hover {text-decoration: underline;}
+
+div#right-column {font-family: "Trebuchet MS"; line-height: 1.4;}
+div#right-column div.highlight div.dynamo {margin-top: 7px; padding: 0px 20px;}
+div#right-column div.highlight div.dynamo a {text-decoration: none;}
+div#right-column div.highlight div.dynamo a:hover {text-decoration: underline;}
+div#right-column div.highlight div.faq div.answer p {display: inline;}
+div#right-column div.highlight div.survey {background: #f2f2f2 url(../images/survey-pie-chart.gif) no-repeat top left; padding-left: 90px;}
+div#right-column div.highlight div.email-marketing {text-align: right;}
+div#right-column div.highlight div.email-marketing input {vertical-align: middle;}
+div#right-column div.highlight div.blog table td {vertical-align: top;}
+div#right-column div.highlight div.orange-bar {background: #fba431 url(../images/orange-bar.gif) repeat-x bottom left; color: white;
+  font-size: 18px; font-weight: bold; padding: 5px 12px; text-decoration: none; text-transform: uppercase;}
+div#right-column hr {margin: 15px 13px; width: 262px;}
+
+.main #right-column .highlight .dynamo {padding: 0px 10px;}
+.main #right-column .highlight .survey {background: none;}
+.main #right-column hr {margin: 15px 13px; width: 170px;}
+
+div#footer {background: white; border-top: 1px solid #bfbfbf; font-size: 11px; margin-top: 1px; padding: 7px; text-align: center;}
+div#footer a {color: black; text-decoration: none;}
+/* End Of Positioning */
+
+/* Message Board */
+div.threaddisplay {float: left; width: 100%;padding-bottom: 20px;}
+div.threadstart {float: left; width: 100%;}
+#forums {width: 100%;}
+#forums th {text-align: center; color: #fff; background: url("../images/forumbg.gif") top left repeat-x; text-transform: Uppercase;height: 26px; padding: 4px 0 0 5px; font-size: 12px;}
+#forums tr.even {background-color: #eee; white-space: nowrap;}
+#message-form-wrapper {float: left; width: 100%;}
+#message-form {float: left;}
+#message-form-wrapper ul.form {margin: 0; padding: 0; list-style-type: none; float: left; width: 100%;}
+#message-form-wrapper ul.form li {margin:0;padding:4px 0;position:relative;display: block; clear: both;}
+h2.bottom {font-size: 16px;}
+h3.bottom {font-size: 16px;float: left; width: 100%;}
+label.main {border: none; color:#222222; display: block; clear: both; font-weight:bold; line-height:1.5; padding:0 0 1px;}
+label.sub {color:#444444; float: left; width: 100%; font-size:9px; line-height:9px; margin:0; padding:3px 0 6px 0;}
+ul.form div#recaptcha_widget_div {float: left;}
+ul.form div.success-box {color:#065F2F; font-weight: bold; font-size: 14px;display: block;}
+ul.form div.error-box {color: #ff0000;font-weight: bold; font-size: 14px;display: block;}
+ul.form div.error {color: #ff0000; font-weight: bold;display: block; padding-bottom: 10px;clear:both;}
+
+div.clear {display: block; clear: both;}
+/* End of Message Board */

@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	
+    <title>Informational & Instructional Articles on Trailer Hitch & Towing - Hitch Info</title>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta name="Description" content="Articles provide tips on everything from trailer towing and trailer hitches to towing equipment, trailer wiring and more. Visit Hitch Info, your one-stop trailer hitch & towing resource. " />
+    <meta name="Keywords" content="curt mfg hitch hitches help tips towing article guide " />
+    <base href="" />
+    <link rel="Shortcut Icon" href="images/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/rotation.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="scripts/shadowbox/src/css/shadowbox.css" type="text/css" media="screen" />
+    
+    <script src="scripts/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.effects.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.dump.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.platformselector.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.hoverIntent.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.swfobject.min.js" type="text/javascript"></script>
+
+    <script src="scripts/swfobject/swfobject.js" type="text/javascript"></script>
+    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="/jsexternal/ajax/oyXMLRPC.js" type="text/javascript"></script>
+    <script src="scripts/shadowbox/src/js/adapter/shadowbox-jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/shadowbox/src/js/shadowbox.js"></script>
+    
+			<!-- Start Kampyle Css -->
+			<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css" />
+			<!-- End Kampyle Css -->
+		
+  </head>
+  <body>
+    <div id="container">
+      <div id="container-2">
+        <div id="header">
+          <div id="header-top">
+            <a href="index.cfm%3Fevent=home.html" id="logo" title="">
+            
+            </a>
+            <div id="header-pod">
+              <div>
+                <div style="position: absolute; left: 110px; top: 34px;">
+					 <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+				'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+				onmouseout="top.status=''; return true;"
+				onmousedown="top.status='Chat with a company representative';return true;"
+				onmouseover="top.status='Chat with a company representative';return true;">
+			<img border=0 src="http://chat.hitchinfo.com/SightMaxAgentInterface/chat.smgif?accountID=21&siteID=21&queueID=43"
+				alt="Live chat by SightMax"></a>
+                </div>
+                <div style="position: absolute; left: 110px; top: 80px;">
+                  <a href="index.cfm%3Fevent=contactus.html" title="Email Us"><img alt="Email Us" src="images/email-us.gif" /></a>
+                </div>
+              </div>
+            </div>
+            <div id="header-add-this">
+  <!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+</div>
+          </div>
+          <div id="navigation"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html" title="Home">Home</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=faq.html" title="FAQ">FAQ</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=board.html" title="Message Board">Message Board</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=guide.html" title="Hitch Finder ">Hitch Finder </a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="Videos">Videos</a>
+              
+            </div>
+          </td>
+        
+        <td>
+          <div class="menu lo">
+            <a id="new-to-towing" class="menu" href="index.cfm%3Fevent=new-to-towing.html" title="">
+              <span>NEW</span> To Towing?
+            </a>
+          </div>
+        </td>
+        <td class="last">
+          <div class="search" id="site-search">
+            <form action="http://www.hitchinfo.com/index.cfm" method="get">
+              <fieldset>
+                <input name="event" type="hidden" value="search" />
+                <input id="site-search-box" name="searchText" type="text" value="" title="Search This Site" />
+                <input src="images/search.gif" type="image" />
+              </fieldset>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        </div>
+        <div id="body"><div id="two-column" class="main">
+    <div id="left-column"><ul class="reset" id="left-side-menu">
+    
+      <li>
+        <div class="left-sidebar-bar">About</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4928.html" title="">About HitchInfo.com</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5101.html" title="">About The Hitch Guys™</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Resource Connection</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=news.home.html" title="">Articles</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li><a href="index.html%3Fevent=faq.html" title="">FAQ</a></li>
+              
+                <li><a href="index.html%3Fevent=glossary.list.html" title="">Glossary</a></li>
+              
+                <li><a href="index.html%3Fevent=guide.html" title="">Hitch Finder </a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4934.html" title="">Quick Reference Charts</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=9115.html" title="">Where to Buy Hitches</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5143.html" title="">Hitches and Towing 101</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Communications</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=contactus.html" title="">Ask the Hitch Guys™</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4956.html" title="">Become a Blog Writer</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li>
+                  <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+                      'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+                      onmouseout="top.status=''; return true;"
+                      onmousedown="top.status='Chat with a company representative';return true;"
+                      onmouseover="top.status='Chat with a company representative';return true;">
+                    Live Chat
+                  </a>
+                </li>
+              
+                <li><a href="index.html%3Fevent=board.html" title="">Message Board</a></li>
+              
+                <li><a href="index.html%3Fevent=shareadventures.html" title="">Share Your Towing Adventures</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Galleries</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=galleryView&amp;galleryid=636.html" title="">Photos</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="">Videos</a></li>
+              
+          </ul>
+        
+      </li>
+    
+  </ul></div>
+    <div id="main-column">
+      <h1>It’s Tow Time!  Six Top Trailer Towing Safety Tips For Hookin’ Up Right.</h1>
+      <div><div id="news-article">
+    
+      <p class="postmetadata">
+        
+          Filed under:
+          
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.category&amp;categoryName=practical&#32;towing&#32;info" rel="category tag">Practical Towing Info</a>, 
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.category&amp;categoryName=troubleshooting&#32;tips" rel="category tag">Troubleshooting Tips</a>, 
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.category&amp;categoryName=cargo&#32;management" rel="category tag">Cargo Management</a> 
+          <br />
+        
+          Tags:
+          
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.tag&amp;tagName=towing&#32;tips" rel="tag">towing tips</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=towing.html" rel="tag">towing</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=hitch.html" rel="tag">hitch</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=safety.html" rel="tag">safety</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=trailers.html" rel="tag">trailers</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=boating.html" rel="tag">boating</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=camping.html" rel="tag">camping</a>, 
+            <a href="index.cfm%3Fevent=news.tag&amp;tagName=rv.html" rel="tag">RV</a>, 
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.tag&amp;tagName=hitch&#32;ball" rel="tag">hitch ball</a>, 
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.tag&amp;tagName=tow&#32;vehicle" rel="tag">tow vehicle</a>, 
+            <a href="http://www.hitchinfo.com/index.cfm?event=news.tag&amp;tagName=towing&#32;capacity" rel="tag">towing capacity</a> 
+          <br />
+        
+      </p>
+      <br />
+    
+    <div><table style="width: 100%;" border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td width="100%" bgcolor="#f88e20">
+<table style="width: 100%; border: #ffffff 1px solid;" border="0" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td width="10%" valign="top"><img title="Jamey Wozniak" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/team008b.jpg" alt="Jamey Wozniak" width="170" height="113" /></td>
+<td width="45%" valign="top"><span style="color: #ffffff;"><strong>In This Article, You Will Learn:</strong></span><br />
+<div style="padding-left: 10px;"><span style="color: #ffffff;">&bull;&nbsp;Not to exceed towing capacity</span></div>
+<div style="padding-left: 10px;"><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;How to torque your hitch ball</span></span></div>
+<div style="padding-left: 10px;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;Why trailer lighting is critical</span></span></span></div>
+<div style="padding-left: 10px;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;To properly load your trailer</span></span></span></span></span></span></div>
+</td>
+<td width="45%" valign="top"><span style="color: #ffffff;"><strong>Glossary Terms Used in This Article:</strong></span><br />
+<div style="padding-left: 10px;"><span style="color: #ffffff;">&bull;&nbsp;<a class="glossary" href="index.html#">Ball Mount</a><br /><span style="color: #ffffff;">&bull;</span>&nbsp;</span><span style="color: #ffffff;"><span style="color: #ffffff;"><a class="glossary" href="index.html#">Hitch Ball</a><br /><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;<a class="glossary" href="index.html#">Ratchet Strap</a><br /></span></span></span></span><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;<a class="glossary" href="index.html#">Trailer Tongue</a></span><span style="color: #ffffff;"><span style="color: #ffffff;"><br /><span style="color: #ffffff;"><span style="color: #ffffff;">&bull;&nbsp;<a class="glossary" href="index.html#">Safety Chains</a><br />
+<div style="padding-left: 10px;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="color: #ffffff;"><a class="glossary" href="index.html#"></a></span></span></span></span></div>
+</span></span></span></span></span></span></span></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br />&nbsp;<br />By Jamey Wozniak, Owner/CEO Joes Hitch, Trailer &amp; Truck Accessories</p>
+<p><span style="font-family: Calibri; font-size: small;"><br />As a Company that has been in business for nearly 80 years, we certainly know a thing or two about safety. &nbsp;So, I thought I&rsquo;d share the top safety <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5144.html" target="_blank">towing tips</a> based on questions and feedback from our customers. With boating, camping &amp; RV season in full swing, these tips are especially handy. <img style="margin: 10px; float: right;" title="Jamey Wozniak, Owner/CEO Joes Hitch, Trailer &amp; Truck Accessories" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/29E8D5E2-51E9-C723-D0F3-E53EB5B2D1E0.jpg" alt="Jamey Wozniak, Owner/CEO Joes Hitch, Trailer &amp; Truck Accessories" width="200" height="300" /></span></p>
+<p><span style="font-family: Calibri; font-size: small;"><br />1. The most important thing you need to know is the <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=4934.html" target="_blank">towing capacity</a> of your car, truck or SUV.&nbsp; Pulling too much weight is extremely dangerous.&nbsp; Your vehicle has certain tow ratings that must match the hitch system you choose.&nbsp; If you don&rsquo;t know the towing capacity of your vehicle, just check the owner&rsquo;s manual.&nbsp; The goal is not to exceed the vehicles towing capacity.&nbsp; This includes the trailer and its contents.&nbsp; So, if you&rsquo;re unsure about the trailer weight, just pull into a public scale and find out.</span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<p><span style="font-family: Calibri; font-size: small;">2. Make sure the <a class="glossary" href="index.html#">hitch ball</a> is secure in the mount before towing.&nbsp; The lock nut &amp; washer need to be torqued to the manufacturer&rsquo;s specs depending on the shank size of the ball.&nbsp; A standard ratchet or crescent wrench won&rsquo;t supply the sufficient torque needed, so make sure you have a torque wrench to tighten it up correctly!&nbsp; While you&rsquo;re at it, make sure the pin and clip securing the <a class="glossary" href="index.html#">ball mount</a> are in tact.&nbsp; This very simple pin and clip can be a major catastrophe and an easy step to forget.</span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<p><span style="font-family: Calibri; font-size: small;">3. When <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html" target="_blank">trailer hitches</a> and their connections are not properly secured, they can cause serious accidents.&nbsp; That&rsquo;s why <a class="glossary" href="index.html#">safety chains</a> are extremely important in the event your trailer becomes disengaged from your tow vehicle.&nbsp; These metal chain links vary in length and width, so make sure you chose the right size chain for the weight of your trailer.&nbsp; Just criss-cross the chains under the <a class="glossary" href="index.html#">trailer tongue</a> and attach to your tow vehicle.&nbsp; Make sure they don&rsquo;t drag and give&rsquo;em a little tug&hellip;&hellip;..it&rsquo;s that simple.&nbsp; Safety chains are required everywhere in the United States.</span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<p><span style="font-size: small;"><span style="font-family: Calibri;">4. Improper braking is another hazard to avoid.&nbsp; The more weight you pull, the harder it is to stop.&nbsp; When purchasing a trailer or camper, opt for one that has brakes. And if you do, most likely you will need a braking system in your tow vehicle.&nbsp; Most states require trailer brakes when the fully loaded weight exceeds a certain limit.&nbsp;&nbsp; </span></span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<p><span style="font-size: small;"><span style="font-family: Calibri;">5. Lighting is critical for trailers because the rear facing lights of the vehicle are typically obstructed by the trailer.&nbsp; Laws require trailers have specific lights, which means tapping into the tow vehicles electrical system.&nbsp; Be sure wires or plugs don&rsquo;t scrape the ground. Connections will get dirty, so keep&rsquo;em clean.&nbsp; </span></span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<p><span style="font-family: Calibri; font-size: small;">6. The proper loading of your trailer is essential to safe towing, as unbalanced loads can cause serious trailer <a class="glossary" href="index.html#">sway</a>.&nbsp; Balance it up by loading from side to side and along the length of the trailer.&nbsp; Place the heavier goods in the front and over the axles since this is the strongest area. Always use <a class="glossary" href="index.html#">ratchet strap</a>s or tie downs to keep your cargo from sliding or falling out.&nbsp; Remember, gravity is not an acceptable method of securing a load!</span></p>
+<p><span style="font-size: small;"><span style="font-family: Calibri;">&nbsp;<img style="display: block; margin-left: auto; vertical-align: middle; margin-right: auto;" title="Priceless" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/Hitch_Cliff.jpg" alt="Priceless" width="450" height="322" /></span></span></p>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span><span style="font-family: Calibri; font-size: small;">&nbsp;</span></p>
+<h1><span style="background-color: #ffffff; color: #000000;"><em><span style="font-family: Calibri; font-size: small;">Author Bio</span></em></span></h1>
+<p><span style="font-family: Calibri; font-size: small;">&nbsp;</span><em><span style="font-size: small;"><span style="font-family: Calibri;">This entrepreneurial autogal has taken the auto industry by storm with her unique concept of Hitch It! Tow It! Rent It! Repair It!&nbsp;&nbsp; Having recently acquired 3 new automotive businesses, she sure knows how to hook ya up right with this one-stop shopping strategy!&nbsp; Jamey is a graduate of&nbsp;Northwood University, one of the largest automotive schools in the nation and has&nbsp;over 15 years years experience in Human Resources&nbsp;and Training &amp; Development and is a social media marketing maven.&nbsp; Check her out on the web at the following: <em><span style="font-size: small;"><span style="font-family: Calibri;"><a href="http://shop.joes-hitchandtrailer.com">http://shop.joes-hitchandtrailer.com</a>&nbsp;and at <a href="http://askpatty.com" target="_blank">askpatty.com</a></span></span></em><br /><br /><img style="margin: 5px; float: left;" title="Jamey Wozniak" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/1956/jamey01.jpg" alt="Jamey Wozniak" width="175" height="191" /></span></span></em></p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp; <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<p style="text-align: center;"><br /><br /><em><span style="font-family: Calibri; font-size: small;">For more specific information geared to your state,<br />visit your local Department of Transportation or the AAA location near you.</span></em></p></div>
+    <br />
+  </div>
+  <div class="bottom-links">
+    &laquo; <a href="index.cfm%3Fevent=news.home.html" title="">Back to Main Articles Page</a>
+  </div></div>
+    </div>
+    <div class="clear"></div>
+  </div></div>
+        <div id="footer"><!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+<br />
+  <br />
+  <div style="font-weight: bold; padding-bottom: 5px;">Hitchinfo.com is maintained by <a href="http://www.curtmfg.com" title="Curt Manufacturing">CURT Manufacturing LLC</a> – a Wisconsin-based manufacturer of towing products</div>
+  <a href="http://www.curtmfg.com" title="Curt Manufacturing"><img alt="Curt Manufacturing" src="images/curt-new.gif" /></a><br />
+  <a href="http://www.facebook.com/curthitch" target="_blank"><img src="images/facebook_32.png" alt="Facebook - Curt Hitches" /><span style="vertical-align: top; color: #365897; line-height: 2.8; font-size: 12px; font-weight: bold;"> Find us on Facebook</span></a>
+  <br />
+  <a href="index.cfm%3Fevent=sitemap.html" title="">Sitemap</a>&nbsp;&nbsp;&bull;&nbsp;
+  <a href="index.cfm%3Fevent=privacypolicy.html" title="">Privacy Policy</a></div>
+      </div>
+    </div>
+	<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-10135356-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+	
+		<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/"  target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=8203542&amp;form_id=33491&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"/></a></div>
+		<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+		<!--End Kampyle Feedback Form Button-->
+	
+  </body>
+</html>

@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	
+    <title>Towing Components – Tow and Trailer Hitch Parts | Hitches & Towing 101</title>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta name="Description" content="13 important towing components and parts used to connect the vehicle and the trailer. Your guide to Hitches and Towing from Hitch Info. " />
+    <meta name="Keywords" content="towing tow trailer hitch part parts component hitches “hitch a trailer” mount ball connector wiring info guide " />
+    <base href="" />
+    <link rel="Shortcut Icon" href="images/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/rotation.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="scripts/shadowbox/src/css/shadowbox.css" type="text/css" media="screen" />
+    
+    <script src="scripts/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.effects.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.dump.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.platformselector.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.hoverIntent.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.swfobject.min.js" type="text/javascript"></script>
+
+    <script src="scripts/swfobject/swfobject.js" type="text/javascript"></script>
+    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="/jsexternal/ajax/oyXMLRPC.js" type="text/javascript"></script>
+    <script src="scripts/shadowbox/src/js/adapter/shadowbox-jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/shadowbox/src/js/shadowbox.js"></script>
+    
+			<!-- Start Kampyle Css -->
+			<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css" />
+			<!-- End Kampyle Css -->
+		
+  </head>
+  <body>
+    <div id="container">
+      <div id="container-2">
+        <div id="header">
+          <div id="header-top">
+            <a href="index.cfm%3Fevent=home.html" id="logo" title="">
+            
+            </a>
+            <div id="header-pod">
+              <div>
+                <div style="position: absolute; left: 110px; top: 34px;">
+					 <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+				'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+				onmouseout="top.status=''; return true;"
+				onmousedown="top.status='Chat with a company representative';return true;"
+				onmouseover="top.status='Chat with a company representative';return true;">
+			<img border=0 src="http://chat.hitchinfo.com/SightMaxAgentInterface/chat.smgif?accountID=21&siteID=21&queueID=43"
+				alt="Live chat by SightMax"></a>
+                </div>
+                <div style="position: absolute; left: 110px; top: 80px;">
+                  <a href="index.cfm%3Fevent=contactus.html" title="Email Us"><img alt="Email Us" src="images/email-us.gif" /></a>
+                </div>
+              </div>
+            </div>
+            <div id="header-add-this">
+  <!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+</div>
+          </div>
+          <div id="navigation"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html" title="Home">Home</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=faq.html" title="FAQ">FAQ</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=board.html" title="Message Board">Message Board</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=guide.html" title="Hitch Finder ">Hitch Finder </a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="Videos">Videos</a>
+              
+            </div>
+          </td>
+        
+        <td>
+          <div class="menu lo">
+            <a id="new-to-towing" class="menu" href="index.cfm%3Fevent=new-to-towing.html" title="">
+              <span>NEW</span> To Towing?
+            </a>
+          </div>
+        </td>
+        <td class="last">
+          <div class="search" id="site-search">
+            <form action="http://www.hitchinfo.com/index.cfm" method="get">
+              <fieldset>
+                <input name="event" type="hidden" value="search" />
+                <input id="site-search-box" name="searchText" type="text" value="" title="Search This Site" />
+                <input src="images/search.gif" type="image" />
+              </fieldset>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        </div>
+        <div id="body"><div id="three-column" class="main">
+      <div id="right-column"><div class="highlight">
+      <div style="background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; background-repeat: no-repeat; height: 26px; padding-top: 4px;"><strong><span style=" color: #ffffff; font-size: 16px;">I WANT TO:</span></strong></div>
+<div style=" padding: 8px;"><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=guide.html"><span style="font-size: small;">Find my custom hitch</span></a><span style="font-size: small;"><strong><span style="color: #f78e1f;"><br />&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=9115.html" target="_blank"><span style="font-size: small;">Find local &amp; online hitch dealers</span></a><strong><span style=" color: #f78e1f;"><br /></span></strong><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=4934.html"><span style="font-size: small;">Browse Quick Reference Charts</span></a><span style="font-size: small;"><strong></strong></span><strong><span style=" color: #f78e1f;"><br /><span style="font-size: small;">&raquo;</span></span></strong><span style="font-size: small;"> </span><a href="index.cfm%3Fevent=contactus.html"><span style="font-size: small;">Ask THE&nbsp;HITCH&nbsp;GUYS&trade; a question!<br /></span></a></div> 
+    </div>
+    <hr /> 
+    <div class="highlight">
+      <div style=" background-repeat: no-repeat; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; height: 26px; padding-top: 4px;">
+      <span style=" color: #ffffff; font-size: 16px;"><strong>THE HITCH GUYS BLOG</strong></span>
+    </div> 
+        <div class="blog dynamo">
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              
+                <tr>
+                  <td><b>08.31.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=667.html" title="">Trailer Hitches are (NOT) Just for Trucks!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>08.02.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=659.html" title="">Trailer Wiring- Measure Twice, Drill Once</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>07.06.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=647.html" title="">Equestrianism - A Local History</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.28.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=643.html" title="">Tow Me to an Arena!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.07.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=634.html" title="">Getting Hitched in June</a></td>
+                </tr>
+              
+            </tbody>
+          </table>
+          <br />
+          <div style="text-align: right;"><a href="index.cfm%3Fevent=blog.home.html" title="View Blog Entries">View All</a></div>
+        </div>
+      
+    </div>
+    <hr /> 
+    <div class="highlight last">
+      <div style="padding-left: 5px; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-top: 4px; background-repeat: no-repeat; height: 26px;"><strong><span style=" color: #ffffff; font-size: 16px;">FAQ</span></strong></div>
+<div style="padding: 10px;"><em><strong>Can I weld my hitch to the frame?<br />Will drilling my frame void my warranty?<br />What is the purpose of a front mount hitch?</strong></em><br /><br />Find answers to these questions and many more like them in our <a href="index.cfm%3Fevent=faq.html">Frequently Asked Questions</a> directory.<br /></div> 
+    </div></div>
+      <div id="left-column"><ul class="reset" id="left-side-menu">
+    
+      <li>
+        <div class="left-sidebar-bar">About</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4928.html" title="">About HitchInfo.com</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5101.html" title="">About The Hitch Guys™</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Resource Connection</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=news.home.html" title="">Articles</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li><a href="index.html%3Fevent=faq.html" title="">FAQ</a></li>
+              
+                <li><a href="index.html%3Fevent=glossary.list.html" title="">Glossary</a></li>
+              
+                <li><a href="index.html%3Fevent=guide.html" title="">Hitch Finder </a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4934.html" title="">Quick Reference Charts</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=9115.html" title="">Where to Buy Hitches</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5143.html" title="">Hitches and Towing 101</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Communications</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=contactus.html" title="">Ask the Hitch Guys™</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4956.html" title="">Become a Blog Writer</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li>
+                  <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+                      'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+                      onmouseout="top.status=''; return true;"
+                      onmousedown="top.status='Chat with a company representative';return true;"
+                      onmouseover="top.status='Chat with a company representative';return true;">
+                    Live Chat
+                  </a>
+                </li>
+              
+                <li><a href="index.html%3Fevent=board.html" title="">Message Board</a></li>
+              
+                <li><a href="index.html%3Fevent=shareadventures.html" title="">Share Your Towing Adventures</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Galleries</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=galleryView&amp;galleryid=636.html" title="">Photos</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="">Videos</a></li>
+              
+          </ul>
+        
+      </li>
+    
+  </ul></div>
+      <div id="main-column">
+        <h1>Hitches and Towing 101</h1>
+        <div><table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="2"><span><span style="color: #000000;"><strong>CHAPTER CONTENTS</strong></span></span></td>
+</tr>
+<tr>
+<td><span>1. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5143.html">Introduction to Towing</a></span></td>
+<td>&nbsp; 7. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5149.html">Brake Controls</a></td>
+</tr>
+<tr>
+<td>2. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5144.html">Towing Components</a></td>
+<td>&nbsp; 8. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5150.html">Hitch Installation</a></td>
+</tr>
+<tr>
+<td>3. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">Types of Hitches</a></td>
+<td>&nbsp; 9. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5151.html">Hooking Up</a></td>
+</tr>
+<tr>
+<td>4. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5146.html">Determining Tow Capacity</a></td>
+<td>10. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5152.html">Tow Bars/Dinghy Towing</a></td>
+</tr>
+<tr>
+<td>5. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5147.html">Selecting Your Hitch</a></td>
+<td>11. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5153.html">Towing Safety</a></td>
+</tr>
+<tr>
+<td>6. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5148.html">Wiring/Electrical</a></td>
+<td>12. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=6576.html">Preparing Your Tow Vehicle</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: medium;"><strong><em>Chapter 2 - Towing Components</em></strong></span></p>
+<p>&nbsp;</p>
+<p><br />The first things to learn about trailer towing are the names of the various components and parts used to connect the vehicle and the trailer. There's a whole range of terms devoted to towing, and you need to know the correct names to make the right choices. The following definitions will be used throughout this site, and each trailer hitch and towing definition includes a pointer to another Chapter in this&nbsp;Hitches &amp; Towing 101 guide that provides more information about that component or part.<br /><br /><strong><em>Tow Vehicle</em></strong><br /><img style="margin: 10px; float: left;" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/2489/White_Truck_5th_Wheel.jpg" alt="White Truck Fifth Wheel" width="200" height="135" />&nbsp; Your tow vehicle is the car, truck, van, or SUV you use to pull your trailer. Depending on the make and model, your tow vehicle can safely tow up to approximately 16,000 pounds with the right hitch. The largest pickup trucks can tow up to approximately 25,000 pounds with a fifth wheel hitch. Your vehicle owner's manual will tell you how many pounds your vehicle can tow safely. See Chapter 4 for detailed information on <a title="Understanding Towing - Determining Towing Capacity" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5146.html">determining your vehicle's towing capacity</a> and Chapter 12 for information on <a title="Understanding Towing - Preparing the Tow Vehicle" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=6576.html">preparing your vehicle for towing</a>. Remember, never exceed the vehicle manufacturer's specified weight capacity. The lowest rated towing component determines the maximum you can safely tow.<br /><br />Table 2-1 shows examples of the variety of towing capacities for a sampling of vehicles. Consult your owner's manual to be certain of your vehicle's weight limits:</p>
+<table style="width: 100%; border: #000000 1px solid;" border="0" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<td style="border-bottom: solid 1px #000000;" width="33%" valign="top">Type of Vehicle</td>
+<td style="border-bottom: solid 1px #000000;" width="33%" valign="top">Example Models</td>
+<td style="border-bottom: solid 1px #000000;" width="33%" valign="top">Max Towing Capacity</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Small car</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Cobalt, Taurus, Avenger</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">under 1,000 pounds&nbsp;</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Full-size car</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Impala, Crown Victoria</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">1,000-2,000 pounds</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Mid-size CUV</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Edge, Taurus X, Equinox&nbsp;</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">2,000-4,000&nbsp;pounds&nbsp;</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Mid-size truck-SUV</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Ranger, Trailblazer, Dakota</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">3,000-7,200 pounds&nbsp;</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Full size 1/2 ton truck or SUV</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Expedition, F150, Tahoe, Durango Hybrid&nbsp;</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">5,000-11,200 pounds&nbsp;</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">1-ton or 3/4 ton truck or SUV</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">F250, Silverado HD, Ram 2500, F350, Ram 3500</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">10,000-16,000 pounds</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Commercial Truck</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">F450</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">16,000 pounds<br />24,600 with fifth wheel</td>
+</tr>
+<tr>
+<td style="border-bottom: solid 1px #000000;" valign="top">Class C or A RV</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">Marathon, Jamboree</td>
+<td style="border-bottom: solid 1px #000000;" valign="top">up to 10,000 pounds</td>
+</tr>
+</tbody>
+</table>
+<p><br /><strong><em>Table 2-1: Example of a Variety of Vehicle Towing Capacities<br /><br />Trailer</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Trailer" src="/fileresourceC5B89CD4-97AB-0125-0893-68702BBD9B1D.jpg" alt="Trailer" width="200" height="121" /><br />Any wheeled construction designed to be pulled by another vehicle. Recreational, Farm, and light commercial trailer types include camper/travel trailers, livestock trailers, open utility and flatbed trailers, enclosed auto and gear haulers, boat trailers, car-towing dollies, and even automobiles being flat-towed with a tow bar. See Chapter 9 for information on <a title="Understanding Towing - Hooking Up" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5151.html">hooking up your trailer</a>, and Chapter 10 for information on setting up and towing with a dolly or flat-towing an automobile "dinghy-style" behind your RV.<br /><br /><strong><em>Tow Dolly</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Tow Dolly" src="/fileresource9AEFECCF-1006-46AB-C433-27D4A70FB6F9.jpg" alt="Tow Dolly" width="200" height="163" /><br />A short two-wheeled trailer designed to cradle the front wheels of a car while leaving the rear wheels on the road. These light-duty trailers are used for short hauls or for dinghy-towing an automobile behind an RV or pickup with a slide-in camper. See Chapter 10 for more information on <a title="Understanding Towing - Tow Bars and Dinghy Towing" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5152.html">tow bars &amp; dinghy towing</a>. <br /><br /><strong><em>Tow Bar<br /></em></strong><img style="margin: 10px; vertical-align: text-bottom;" title="Tow Bar" src="/fileresource4C386947-0AD5-23F6-0CCC-7D8C0DEE49EB.jpg" alt="Tow Bar" width="200" height="68" />&nbsp; <br />A V-shaped bar with a towing coupler designed to flat-tow a car behind an RV or other tow vehicle. With a tow bar, the towed automobile is the trailer, while the tow bar provides only the coupler and clearance from the rear of the tow vehicle. Using a tow bar is often called towing "dinghy-style." See Chapter 10 for more information.</p>
+<p>&nbsp;</p>
+<p><strong><em>Trailer Lighting</em></strong></p>
+<p><img style="margin: 10px; vertical-align: text-bottom;" title="Towing Lights" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/2488/53204_a.jpg" alt="Towing Lights" width="200" height="147" />&nbsp; <br />All trailers are required to have the same signaling lights as a powered motor vehicle. The vast majority are legally required to carry taillights, turn signals, and brake lights that are connected to the tow vehicle and actuated in sync with the vehicle lights. See Chapter 6 for more information on <a title="Understanding Towing - Wiring &amp; Electrical Basics" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5148.html">lighting and integrating trailer wiring</a> with your tow vehicle.</p>
+<p><strong><em><br />Hitch</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Receiver Hitch" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/2488/31352_a.jpg" alt="Receiver Hitch" width="300" height="199" />&nbsp; <br />The point where a trailer is attached to your tow vehicle. Hitches range from extremely light duty (a mounting point on the vehicle's bumper<strong>*</strong>) to extremely heavy duty (a fifth-wheel attachment located over a pickup truck's rear axle. Selecting the correct type of trailer hitch for your tow vehicle's towing capacity, and your trailer's requirements is a critical factor in successful towing. See Chapter 3&nbsp;for complete information on the available <a title="Read Chapter 3 - Types of Trailer Hitches" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">types of trailer hitches</a>. <em><strong>* Please note that although some bumpers are rated for towing, they are rarely recommended. Working tongue weights often pull the bumper down at an angle, which can compromise towing safety as well as detract from the aesthetics of the vehicle.</strong></em><br /><br /><strong><em>Weight Distributing Hitch</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Weight Distributing Hitch" src="/fileresource61852935-D3D6-880B-2147-C7E47635A69C.jpg" alt="Weight Distributing Hitch" width="200" height="99" />&nbsp; <br />A special device used to haul very heavy loads with conventional receiver style hitches. A weight distributing hitch uses long rods called "spring bars" that attach back to the trailer frame. These spring bars exert leverage on the frame of the tow vehicle to distribute weight evenly between its rear and the front wheels. For more information on <a title="Understanding Towing - types of trailer hitches" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">weight distribution hitches</a>, see Chapter 3.<br /><br /><strong><em>Hitch Ball Mount</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Hitch Ball Mount" src="http://fileresource.sitepro.com/filemanager/66/imagecollections/2488/45220_a.jpg" alt="Hitch Ball Mount" width="200" height="133" />&nbsp; <br />Also called a "stinger" or a "draw bar," the ball mount is a square steel tube with a thick mounting plate to hold a hitch ball. These ball mounts are made to be easily changed so that you can quickly use a variety of hitch balls. The ball mount is held in place in the hitch with a special pin, or a locking device. See Chapter 5 and Chapter 8 for more information on ball mounts. <br /><strong><em><br />Hitch Ball</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Hitch Ball" src="/fileresource7A9EDDB3-F3E0-BF15-BF4F-5BE86EC10289.jpg" alt="Hitch Ball" width="133" height="200" />&nbsp; <br />Also called a "tow ball," the hitch ball is half of a flexible joint that allows your tow vehicle and trailer to turn corners and navigate bumps and dips. The coupler mounts and locks on top of the hitch ball and articulates around the hitch ball. Recreational and light commercial hitch balls come in a variety of sizes including 1 7/8-inch, 2-inch, 2 5/16-inch and rarely, 3-inch. In general, lighter trailers use smaller hitch balls. While the diameter of hitch balls is fairly standard, shank diameters and the hitch ball weight ratings may differ. The rating of the hitch ball is just as important as the receiver hitch ratings themselves. See Chapter 8 and Chapter 9 for more information about hitch balls. <br /><br /><strong><em>Hitch Pin &amp; Clip</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Hitch Pin and Clip" src="/fileresource3E1482A6-54B2-9AFB-2088-50E6389BA426.jpg" alt="Hitch Pin and Clip" width="200" height="133" />&nbsp; <br />This pin holds the ball mount in the hitch. It is also a convenient attachment point for breakaway cables. Typically, a hitch pin is bent like a hockey stick, and drilled at one end to accept a hairpin-shaped retaining clip. A large bolt with a nut and a lock-washer is sometimes used in place of a hitch pin. See Chapter 9 for more information on using a hitch pin and clip. <br /><strong><em><br />Trailer Wiring</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Trailer Wiring" src="/fileresource6A3AE2A8-34C5-F271-D775-74CA2C644532.jpg" alt="Trailer Wiring" width="200" height="133" />&nbsp; <br />Your trailer lights must be connected to your tow vehicle, and this requires wiring from the lights forward to a connector at the back of the vehicle. There are several standard formats for trailer connector wiring, with defined locations for taillights, turn signals, brake lights and trailer brake actuators. See Chapter 6 for information on <a title="Understanding Towing - Trailer Wiring" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5148.html">trailer wiring and connectors</a> and Chapter 7 for information on <a title="Understanding Towing - Trailer Brake Controls" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5149.html">trailer brakes</a>.</p>
+<p><strong><em>Coupler</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Trailer Coupler" src="/fileresourceED4A806D-D5DD-1225-EDCC-64BE01727EA0.jpg" alt="Trailer Coupler" width="200" height="103" />&nbsp; <br />The coupler is half of a flexible joint that allows your tow vehicle and trailer to turn corners and navigate bumps and dips. The coupler fits over the hitch ball, and is designed to articulate around the ball. The size of the coupler and ball must match to operate safely. See Chapter 8 for information on matching your coupler to a hitch, and Chapter 9 for instruction on hooking your coupler to a hitch ball. <br /><br /><strong><em>Safety Chain</em></strong><br /><img style="margin: 10px; vertical-align: text-bottom;" title="Safety Chain" src="/fileresourceD97141EF-8CC9-C60B-FF51-BD2E923A407C.jpg" alt="Safety Chain" width="200" height="99" />&nbsp; <br />Every trailer requires at least one safety chain. This is simply a length of chain strong enough to restrain the trailer from complete separation if the hitch or coupler should fail. For heavier trailers, two safety chains are used, and set up to cross under the coupler. In this way, if the coupler or hitch fails, the nose of the trailer will be caught by the safety chains, providing a measure of control while the tow vehicle stops. Use of safety chains is required by most, if not all states. For more information on using safety chains, see Chapter 11 on <a title="Understanding Towing - Towing Safety" href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5153.html">Towing Safety</a>.</p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: left;" width="50%"><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5143.html">&lt;&lt; Back to Chapter 1</a></td>
+<td style="text-align: right;" width="50%"><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">Go to Chapter 3 &gt;&gt;</a></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+      <div class="clear"></div>
+    </div></div>
+        <div id="footer"><!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+<br />
+  <br />
+  <div style="font-weight: bold; padding-bottom: 5px;">Hitchinfo.com is maintained by <a href="http://www.curtmfg.com" title="Curt Manufacturing">CURT Manufacturing LLC</a> – a Wisconsin-based manufacturer of towing products</div>
+  <a href="http://www.curtmfg.com" title="Curt Manufacturing"><img alt="Curt Manufacturing" src="images/curt-new.gif" /></a><br />
+  <a href="http://www.facebook.com/curthitch" target="_blank"><img src="images/facebook_32.png" alt="Facebook - Curt Hitches" /><span style="vertical-align: top; color: #365897; line-height: 2.8; font-size: 12px; font-weight: bold;"> Find us on Facebook</span></a>
+  <br />
+  <a href="index.cfm%3Fevent=sitemap.html" title="">Sitemap</a>&nbsp;&nbsp;&bull;&nbsp;
+  <a href="index.cfm%3Fevent=privacypolicy.html" title="">Privacy Policy</a></div>
+      </div>
+    </div>
+	<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-10135356-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+	
+		<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/"  target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=8203542&amp;form_id=33491&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"/></a></div>
+		<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+		<!--End Kampyle Feedback Form Button-->
+	
+  </body>
+</html>

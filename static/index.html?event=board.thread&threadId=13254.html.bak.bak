@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	
+    <title>Message Board</title>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta name="Description" content="Your trailer hitch and towing guide. An information center with safety tips, articles, glossary of trailer/towing terms, and more. Get connected with Hitch Info today!" />
+    <meta name="Keywords" content="trailer hitch hitches towing guide information tips articles resources hitchinfo curt mfg " />
+    <base href="" />
+    <link rel="Shortcut Icon" href="images/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/rotation.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="scripts/shadowbox/src/css/shadowbox.css" type="text/css" media="screen" />
+    
+    <script src="scripts/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.effects.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.dump.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.platformselector.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.hoverIntent.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.swfobject.min.js" type="text/javascript"></script>
+
+    <script src="scripts/swfobject/swfobject.js" type="text/javascript"></script>
+    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="/jsexternal/ajax/oyXMLRPC.js" type="text/javascript"></script>
+    <script src="scripts/shadowbox/src/js/adapter/shadowbox-jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/shadowbox/src/js/shadowbox.js"></script>
+    
+			<!-- Start Kampyle Css -->
+			<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css" />
+			<!-- End Kampyle Css -->
+		
+  </head>
+  <body>
+    <div id="container">
+      <div id="container-2">
+        <div id="header">
+          <div id="header-top">
+            <a href="index.cfm%3Fevent=home.html" id="logo" title="">
+            
+            </a>
+            <div id="header-pod">
+              <div>
+                <div style="position: absolute; left: 110px; top: 34px;">
+					 <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+				'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+				onmouseout="top.status=''; return true;"
+				onmousedown="top.status='Chat with a company representative';return true;"
+				onmouseover="top.status='Chat with a company representative';return true;">
+			<img border=0 src="http://chat.hitchinfo.com/SightMaxAgentInterface/chat.smgif?accountID=21&siteID=21&queueID=43"
+				alt="Live chat by SightMax"></a>
+                </div>
+                <div style="position: absolute; left: 110px; top: 80px;">
+                  <a href="index.cfm%3Fevent=contactus.html" title="Email Us"><img alt="Email Us" src="images/email-us.gif" /></a>
+                </div>
+              </div>
+            </div>
+            <div id="header-add-this">
+  <!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+</div>
+          </div>
+          <div id="navigation"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html" title="Home">Home</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=faq.html" title="FAQ">FAQ</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo active" href="index.html%3Fevent=board.html" title="Message Board">Message Board</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=guide.html" title="Hitch Finder ">Hitch Finder </a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="Videos">Videos</a>
+              
+            </div>
+          </td>
+        
+        <td>
+          <div class="menu lo">
+            <a id="new-to-towing" class="menu" href="index.cfm%3Fevent=new-to-towing.html" title="">
+              <span>NEW</span> To Towing?
+            </a>
+          </div>
+        </td>
+        <td class="last">
+          <div class="search" id="site-search">
+            <form action="http://www.hitchinfo.com/index.cfm" method="get">
+              <fieldset>
+                <input name="event" type="hidden" value="search" />
+                <input id="site-search-box" name="searchText" type="text" value="" title="Search This Site" />
+                <input src="images/search.gif" type="image" />
+              </fieldset>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        </div>
+        <div id="body"><div id="two-column" class="main">
+    <div id="left-column"><ul class="reset" id="left-side-menu">
+    
+      <li>
+        <div class="left-sidebar-bar">About</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4928.html" title="">About HitchInfo.com</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5101.html" title="">About The Hitch Guys™</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Resource Connection</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=news.home.html" title="">Articles</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li><a href="index.html%3Fevent=faq.html" title="">FAQ</a></li>
+              
+                <li><a href="index.html%3Fevent=glossary.list.html" title="">Glossary</a></li>
+              
+                <li><a href="index.html%3Fevent=guide.html" title="">Hitch Finder </a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4934.html" title="">Quick Reference Charts</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=9115.html" title="">Where to Buy Hitches</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5143.html" title="">Hitches and Towing 101</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Communications</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=contactus.html" title="">Ask the Hitch Guys™</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4956.html" title="">Become a Blog Writer</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li>
+                  <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+                      'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+                      onmouseout="top.status=''; return true;"
+                      onmousedown="top.status='Chat with a company representative';return true;"
+                      onmouseover="top.status='Chat with a company representative';return true;">
+                    Live Chat
+                  </a>
+                </li>
+              
+                <li><a href="index.html%3Fevent=board.html" title="">Message Board</a></li>
+              
+                <li><a href="index.html%3Fevent=shareadventures.html" title="">Share Your Towing Adventures</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Galleries</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=galleryView&amp;galleryid=636.html" title="">Photos</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="">Videos</a></li>
+              
+          </ul>
+        
+      </li>
+    
+  </ul></div>
+    <div id="main-column">
+      <h1>Message Board</h1>
+      <div><table id="forums" border="0" cellpadding="4" cellspacing="2">
+		<thead>
+			<tr>
+				<th style="width: 120px;">Author</th>
+				<th>Message</th>
+			</tr>
+		</thead>
+		<tbody>
+			
+				<tr class="even">
+					<td>09/29/2011, 07:19 PM</td>
+					<td><b>Which hitch for Versa hauler?</b></td>
+				</tr>
+				<tr class="odd">
+					<td>George</td>
+					<td>I recently bought a 2008 Suzuki Burgman 650 executive scooter that came with a versa hauler. I have a 1991 Ford Explorer. Which hitch do I need to add to the Explorer in order to use the Versa hauler with the Burgman? The Burgman weighs 518lbs. The Versa hauler sticks out about 2 ft.past the hitch. Does that mean I need a hitch with 1100 lbs. tongue weight?</td>
+				</tr>
+				<tr><td colspan="2" style="height: 0; vertical-align: middle;">&nbsp;</td></tr> 
+				<tr class="even">
+					<td>09/30/2011, 01:05 PM</td>
+					<td><b>Re: Which hitch for Versa hauler?</b></td>
+				</tr>
+				<tr class="odd">
+					<td>Travis ~ Hitch Guy™</td>
+					<td>Correct you would need at least a class IV trailer hitch capable of 1,000 lbs tongue weight in order to carry that on a hauler. Unfortunately there is not a hitch for the explorer that is rated at that capacity. You would be better of trailering it or putting the carrier on the back of a pick-up or large SUV. </td>
+				</tr>
+				<tr><td colspan="2" style="height: 0; vertical-align: middle;">&nbsp;</td></tr> 
+				<tr class="even">
+					<td>10/06/2011, 11:26 AM</td>
+					<td><b>Re: Which hitch for Versa hauler?</b></td>
+				</tr>
+				<tr class="odd">
+					<td>George</td>
+					<td>Thanks for your reply!</td>
+				</tr>
+				
+		</tbody>
+	</table>
+	<br />
+	<div>
+		<h3 class="bottom">Post a Reply</h3>
+		<div id="message-form-wrapper">
+			<form action="http://www.hitchinfo.com?event=board.thread.message.add.action" id="message-form" name="message-form" method="post">
+				<input type="hidden" name="threadId" value="13254" />
+				<input type="hidden" name="parentMessage" value="14514" />
+				<ul class="form">
+					
+					<li>
+						<label class="main" for="messageBody">Body <span class="req">*</span></label>
+						<textarea class="textarea span-14" id="messageBody" name="body" cols="80" rows="10"></textarea>
+					</li>
+					<li>
+						<div class="span-5">
+							<label class="main" for="anonymousAuthorName">Name <span class="req">*</span></label>
+							<input class="text span-5" id="anonymousAuthorName" name="anonymousAuthorName" type="text" value="" />
+							<label class="sub" for="anonymousAuthorName">Displayed next to your message.</label>
+							
+    
+						</div>
+						<div class="span-9 last">
+							<label class="main" for="title">Subject <span class="req">*</span></label>
+							<input class="text span-9" id="title" name="title" type="text" value="Re: Which hitch for Versa hauler?" />
+							<label class="sub" for="title">Displayed above your message.</label>
+							
+    
+						</div>
+					</li>
+					<li>
+      <script type="text/javascript">
+        <!--
+          var RecaptchaOptions = {theme : 'white', tabindex : 0};
+        //-->
+      </script>
+      <script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LcYhAYAAAAAAEJVuFyu64GpKc81xTULeNt5EG3w"></script>
+      <noscript>
+        <iframe src="http://api.recaptcha.net/noscript?k=6LcYhAYAAAAAAEJVuFyu64GpKc81xTULeNt5EG3w" height="300" width="500" frameborder="0"></iframe><br />
+        <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+        <input type="hidden" name="recaptcha_response_field" value="manual_challenge" />
+      </noscript>
+    </li>
+					<li>
+						<input type="submit" value="Submit" />
+					</li>
+				</ul>
+				<div class="clear"></div>
+			</form>
+		</div>
+	</div></div>
+    </div>
+    <div class="clear"></div>
+  </div></div>
+        <div id="footer"><!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+<br />
+  <br />
+  <div style="font-weight: bold; padding-bottom: 5px;">Hitchinfo.com is maintained by <a href="http://www.curtmfg.com" title="Curt Manufacturing">CURT Manufacturing LLC</a> – a Wisconsin-based manufacturer of towing products</div>
+  <a href="http://www.curtmfg.com" title="Curt Manufacturing"><img alt="Curt Manufacturing" src="images/curt-new.gif" /></a><br />
+  <a href="http://www.facebook.com/curthitch" target="_blank"><img src="images/facebook_32.png" alt="Facebook - Curt Hitches" /><span style="vertical-align: top; color: #365897; line-height: 2.8; font-size: 12px; font-weight: bold;"> Find us on Facebook</span></a>
+  <br />
+  <a href="index.cfm%3Fevent=sitemap.html" title="">Sitemap</a>&nbsp;&nbsp;&bull;&nbsp;
+  <a href="index.cfm%3Fevent=privacypolicy.html" title="">Privacy Policy</a></div>
+      </div>
+    </div>
+	<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-10135356-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+	
+		<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/"  target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=8203542&amp;form_id=33491&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"/></a></div>
+		<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+		<!--End Kampyle Feedback Form Button-->
+	
+  </body>
+</html>

@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+  	
+    <title>Improved Towing Performance Capacity - Upgrade Your Tow Vehicle</title>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <meta name="Description" content="In this article we will show you how to make improvements to your tow vehicle. There are modifications you can make that can yield more engine power and protect your tow vehicle from the stresses of towing." />
+    <meta name="Keywords" content="tow vehicle, towing package, towing capacity, towing power, truck modification, improve towing, improved towing" />
+    <base href="" />
+    <link rel="Shortcut Icon" href="images/favicon.ico" />
+    
+    <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/rotation.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/layout.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="scripts/shadowbox/src/css/shadowbox.css" type="text/css" media="screen" />
+    
+    <script src="scripts/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.effects.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.dump.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.platformselector.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.hoverIntent.min.js" type="text/javascript"></script>
+    <script src="scripts/jquery/jquery.swfobject.min.js" type="text/javascript"></script>
+
+    <script src="scripts/swfobject/swfobject.js" type="text/javascript"></script>
+    <script src="scripts/main.js" type="text/javascript"></script>
+    <script src="/jsexternal/ajax/oyXMLRPC.js" type="text/javascript"></script>
+    <script src="scripts/shadowbox/src/js/adapter/shadowbox-jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="scripts/shadowbox/src/js/shadowbox.js"></script>
+    
+			<!-- Start Kampyle Css -->
+			<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css" />
+			<!-- End Kampyle Css -->
+		
+  </head>
+  <body>
+    <div id="container">
+      <div id="container-2">
+        <div id="header">
+          <div id="header-top">
+            <a href="index.cfm%3Fevent=home.html" id="logo" title="">
+            
+            </a>
+            <div id="header-pod">
+              <div>
+                <div style="position: absolute; left: 110px; top: 34px;">
+					 <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+				'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+				onmouseout="top.status=''; return true;"
+				onmousedown="top.status='Chat with a company representative';return true;"
+				onmouseover="top.status='Chat with a company representative';return true;">
+			<img border=0 src="http://chat.hitchinfo.com/SightMaxAgentInterface/chat.smgif?accountID=21&siteID=21&queueID=43"
+				alt="Live chat by SightMax"></a>
+                </div>
+                <div style="position: absolute; left: 110px; top: 80px;">
+                  <a href="index.cfm%3Fevent=contactus.html" title="Email Us"><img alt="Email Us" src="images/email-us.gif" /></a>
+                </div>
+              </div>
+            </div>
+            <div id="header-add-this">
+  <!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+</div>
+          </div>
+          <div id="navigation"> 
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html" title="Home">Home</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=faq.html" title="FAQ">FAQ</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=board.html" title="Message Board">Message Board</a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=guide.html" title="Hitch Finder ">Hitch Finder </a>
+              
+            </div>
+          </td>
+        
+          <td>
+            <div class="menu lo">
+              <a class="menu lo" href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="Videos">Videos</a>
+              
+            </div>
+          </td>
+        
+        <td>
+          <div class="menu lo">
+            <a id="new-to-towing" class="menu" href="index.cfm%3Fevent=new-to-towing.html" title="">
+              <span>NEW</span> To Towing?
+            </a>
+          </div>
+        </td>
+        <td class="last">
+          <div class="search" id="site-search">
+            <form action="http://www.hitchinfo.com/index.cfm" method="get">
+              <fieldset>
+                <input name="event" type="hidden" value="search" />
+                <input id="site-search-box" name="searchText" type="text" value="" title="Search This Site" />
+                <input src="images/search.gif" type="image" />
+              </fieldset>
+            </form>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+        </div>
+        <div id="body"><div id="three-column" class="main">
+      <div id="right-column"><div class="highlight">
+      <div style="background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; background-repeat: no-repeat; height: 26px; padding-top: 4px;"><strong><span style=" color: #ffffff; font-size: 16px;">I WANT TO:</span></strong></div>
+<div style=" padding: 8px;"><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=guide.html"><span style="font-size: small;">Find my custom hitch</span></a><span style="font-size: small;"><strong><span style="color: #f78e1f;"><br />&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=9115.html" target="_blank"><span style="font-size: small;">Find local &amp; online hitch dealers</span></a><strong><span style=" color: #f78e1f;"><br /></span></strong><span style="font-size: small;"><strong><span style="color: #f78e1f;">&raquo;</span></strong> </span><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=4934.html"><span style="font-size: small;">Browse Quick Reference Charts</span></a><span style="font-size: small;"><strong></strong></span><strong><span style=" color: #f78e1f;"><br /><span style="font-size: small;">&raquo;</span></span></strong><span style="font-size: small;"> </span><a href="index.cfm%3Fevent=contactus.html"><span style="font-size: small;">Ask THE&nbsp;HITCH&nbsp;GUYS&trade; a question!<br /></span></a></div> 
+    </div>
+    <hr /> 
+    <div class="highlight">
+      <div style=" background-repeat: no-repeat; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-left: 5px; height: 26px; padding-top: 4px;">
+      <span style=" color: #ffffff; font-size: 16px;"><strong>THE HITCH GUYS BLOG</strong></span>
+    </div> 
+        <div class="blog dynamo">
+          <table border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              
+                <tr>
+                  <td><b>08.31.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=667.html" title="">Trailer Hitches are (NOT) Just for Trucks!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>08.02.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=659.html" title="">Trailer Wiring- Measure Twice, Drill Once</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>07.06.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=647.html" title="">Equestrianism - A Local History</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.28.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=643.html" title="">Tow Me to an Arena!</a></td>
+                </tr>
+              
+                <tr>
+                  <td><b>06.07.2011</b>:&nbsp;</td>
+                  <td><a href="index.cfm%3Fevent=blog.entry&amp;entryId=634.html" title="">Getting Hitched in June</a></td>
+                </tr>
+              
+            </tbody>
+          </table>
+          <br />
+          <div style="text-align: right;"><a href="index.cfm%3Fevent=blog.home.html" title="View Blog Entries">View All</a></div>
+        </div>
+      
+    </div>
+    <hr /> 
+    <div class="highlight last">
+      <div style="padding-left: 5px; background-image: url(http://fileresource.sitepro.com//filemanager/169/imagecollections/1483/2C242992-E562-E9D2-B4CF-1D235BC826EC.gif); padding-top: 4px; background-repeat: no-repeat; height: 26px;"><strong><span style=" color: #ffffff; font-size: 16px;">FAQ</span></strong></div>
+<div style="padding: 10px;"><em><strong>Can I weld my hitch to the frame?<br />Will drilling my frame void my warranty?<br />What is the purpose of a front mount hitch?</strong></em><br /><br />Find answers to these questions and many more like them in our <a href="index.cfm%3Fevent=faq.html">Frequently Asked Questions</a> directory.<br /></div> 
+    </div></div>
+      <div id="left-column"><ul class="reset" id="left-side-menu">
+    
+      <li>
+        <div class="left-sidebar-bar">About</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4928.html" title="">About HitchInfo.com</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5101.html" title="">About The Hitch Guys™</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Resource Connection</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=news.home.html" title="">Articles</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li><a href="index.html%3Fevent=faq.html" title="">FAQ</a></li>
+              
+                <li><a href="index.html%3Fevent=glossary.list.html" title="">Glossary</a></li>
+              
+                <li><a href="index.html%3Fevent=guide.html" title="">Hitch Finder </a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4934.html" title="">Quick Reference Charts</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=9115.html" title="">Where to Buy Hitches</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=5143.html" title="">Hitches and Towing 101</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Communications</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=contactus.html" title="">Ask the Hitch Guys™</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4956.html" title="">Become a Blog Writer</a></li>
+              
+                <li><a href="index.html%3Fevent=blog.home.html" title="">Blog</a></li>
+              
+                <li>
+                  <a href="javascript: var e = window.open('http://chat.hitchinfo.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=21&siteID=21&queueID=43',
+                      'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+                      onmouseout="top.status=''; return true;"
+                      onmousedown="top.status='Chat with a company representative';return true;"
+                      onmouseover="top.status='Chat with a company representative';return true;">
+                    Live Chat
+                  </a>
+                </li>
+              
+                <li><a href="index.html%3Fevent=board.html" title="">Message Board</a></li>
+              
+                <li><a href="index.html%3Fevent=shareadventures.html" title="">Share Your Towing Adventures</a></li>
+              
+          </ul>
+        
+      </li>
+    
+      <li>
+        <div class="left-sidebar-bar">Galleries</div>
+        
+          <ul class="reset">
+            
+                <li><a href="index.html%3Fevent=galleryView&amp;galleryid=636.html" title="">Photos</a></li>
+              
+                <li><a href="index.html%3Fevent=viewpage&amp;contentpieceid=4948.html" title="">Videos</a></li>
+              
+          </ul>
+        
+      </li>
+    
+  </ul></div>
+      <div id="main-column">
+        <h1>Hitches and Towing 101</h1>
+        <div><p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="2"><span style="font-family: "><span style="color: #000000;"><strong>CHAPTER CONTENTS</strong></span></span></td>
+</tr>
+<tr>
+<td><span style="font-family: ">1. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5143.html">Introduction to Towing</a></span></td>
+<td>&nbsp; 7. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5149.html">Brake Controls</a></td>
+</tr>
+<tr>
+<td>2. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5144.html">Towing Components</a></td>
+<td>&nbsp; 8. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5150.html">Hitch Installation</a></td>
+</tr>
+<tr>
+<td>3. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5145.html">Types of Hitches</a></td>
+<td>&nbsp; 9. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5151.html">Hooking Up</a></td>
+</tr>
+<tr>
+<td>4. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5146.html">Determining Tow Capacity</a></td>
+<td>10. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5152.html">Tow Bars/Dinghy Towing</a></td>
+</tr>
+<tr>
+<td>5. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5147.html">Selecting Your Hitch</a></td>
+<td>11. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5153.html">Towing Safety</a></td>
+</tr>
+<tr>
+<td>6. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5148.html">Wiring/Electrical</a></td>
+<td>12. <a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=6576.html">Preparing Your Tow Vehicle</a></td>
+</tr>
+</tbody>
+</table>
+</p>
+<p>&nbsp;<br /><span style="font-size: medium;"><span style="font-family: "><em><strong>Chapter&nbsp;12 -&nbsp;Preparing Your Tow Vehicle</strong>&nbsp;<br /></em></span></span><br />Throughout this series, we've talked about preparing your vehicle's trailer hitch and wiring, determining weights and towing capabilities, and how to hook up and tow. The last area to cover is improvements to your tow vehicle. There are modifications you can make that can yield more engine power and protect your tow vehicle from the stresses of towing.<br /><img style="margin: 10px; float: right;" title="GMC Pickup &amp; Fifth Wheel Camper" src="/fileresourceB0604A5F-3B8F-DD8C-7F48-4B5AF179FBC5.jpg" alt="GMC Pickup &amp; Fifth Wheel Camper" width="300" height="180" /><br /><strong>WARNING:</strong> Many of these modifications will void the manufacturer's warranty on a new vehicle. Many dealer service centers will refuse to work on any vehicle that has been modified from the factory design in any way. Check your warranty and check with your dealer before you make any modifications to your tow vehicle. <br /><br />Before you set out to modify your tow vehicle, you need to understand that when you make changes to the factory design, you're taking responsibility for those changes. If you don't do the work to professional standards, you can damage or even ruin your vehicle. If you doubt your ability to get the work done right, you should take your tow vehicle to a good service center and ask their advice and help. <br /><br />Also, the addition of performance components may give you more engine power, but you should not exceed your vehicle's factory towing capacity specifications. Think of these modifications as increasing your vehicle's margin of safety, not increasing its capabilities.<br /><br /><strong>Factory Options<br /><br /></strong>Many pickup trucks, vans, SUVs, and RVs can be purchased with optional "Trailering" and "Camper" packages. It's always a good idea to purchase these options, because they mean that the automaker will install heavy-duty parts on your vehicle with a full factory warranty. Trailering and camper packages generally include an engine oil cooler, more capable radiator, a more advantageous rear axle ratio, heavy-duty suspension, and installed trailer wiring. In some cases, a trailer brake controller is also included.<br /><br />If you're buying a vehicle specifically for towing, consider buying a 2WD model. Trucks and SUVs with AWD or 4WD are heavier and sometimes the transmission/transfer case parts have a lower towing capability than the comparable 2WD units. If you know that your towing will all be done on pavement, it's generally better to avoid 4WD.<br /><br /><strong>Aftermarket Performance Upgrades<br /><br /></strong>Some trailer dealers also offer performance upgrades for tow vehicles. These devices are not legal in every state or municipality, so check your local laws first to be sure. If your vehicle is subject to emissions inspection and testing, these devices can also make your vehicle fail the test. Again, check your local laws to be sure. <br /><br /><img style="float: left; margin: 10px;" title="Aftermarket Towing Performance Upgrades " src="/fileresource7BCA8000-C3CF-073D-01A3-9BA728193468.jpg" alt="Aftermarket Towing Performance Upgrades " width="200" height="150" />Some of the most common upgrades available are free-flowing "cat-back" exhaust systems and fresh air intakes with free-flowing air filters. Installed together, these parts can increase horsepower and torque by about 10% by opening up airflow through the engine. <br /><br />For vehicles made in the last 10 years, you can also purchase "reflash" or "chip" engine programmers. These change the way the engine control computer behaves and can deliver more torque and horsepower. For a tow vehicle, always choose the program that is listed as being safe for towing. Sometimes these programs reduce your total towing capacity in exchange for increased performance at lighter loads, so do your research carefully. <br /><br />Some older automatic transmissions can be retrofitted with "RV" parts that change shift points and help your vehicle handle heavy loads. These generally hold each gear longer to keep your engine solidly in its power band before shifting to a higher gear, and this might feel strange, especially when you're not towing.<br /><br />A larger radiator and a set of engine oil and transmission lubricant coolers can really help with towing. Under increased stress, your engine and transmission will run hotter, and anything you can do to keep those temperatures down will help prolong the life of your tow vehicle. Most manufacturers have a factory option or dealer-installed option for these parts, and you should use those parts if at all possible.<br /><br />Another aftermarket improvement you can make is to add suspension capability. The commonly-available overload springs and coil spring assists are not worth very much. It's only a little more expensive, but a lot more effective, to take your tow vehicle to a reputable spring and suspension shop and have heavy-duty springs installed. For rear leaf springs, as commonly found on full-size pickup trucks and vans, the spring shop can install an extra leaf or two and re-arch the springs. Heavy-duty replacement coil springs for the front suspension are often available as well. <br /><br />Be sure that you also outfit your vehicle with the best possible shock absorbers for trailering. Good shocks keep your vehicle stable and reduce sway, especially when your trailing rig hits potholes or rough pavement. <br /><br />With a bit of work, you can outfit your tow vehicle for maximum comfort and prolong its working life at the same time.</p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style=" text-align: left;" width="50%"><a href="index.cfm%3Fevent=viewpage&amp;contentpieceid=5153.html">&lt;&lt; Back to Chapter 11</a></td>
+<td style=" text-align: right;" width="50%">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>
+      </div>
+      <div class="clear"></div>
+    </div></div>
+        <div id="footer"><!-- ADDTHIS BUTTON BEGIN -->
+  <script type="text/javascript">
+    // <![CDATA[
+      addthis_pub             = 'curtmfg'; 
+      addthis_logo_background = 'EFEFFF';
+      addthis_logo_color      = '666699';
+      addthis_brand           = 'HitchInfo.com';
+      addthis_options         = 'favorites, email, digg, delicious, myspace, facebook, google, live, more';
+    // ]]>
+  </script>
+  <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="" /></a>
+  <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+  <!-- ADDTHIS BUTTON END -->
+<br />
+  <br />
+  <div style="font-weight: bold; padding-bottom: 5px;">Hitchinfo.com is maintained by <a href="http://www.curtmfg.com" title="Curt Manufacturing">CURT Manufacturing LLC</a> – a Wisconsin-based manufacturer of towing products</div>
+  <a href="http://www.curtmfg.com" title="Curt Manufacturing"><img alt="Curt Manufacturing" src="images/curt-new.gif" /></a><br />
+  <a href="http://www.facebook.com/curthitch" target="_blank"><img src="images/facebook_32.png" alt="Facebook - Curt Hitches" /><span style="vertical-align: top; color: #365897; line-height: 2.8; font-size: 12px; font-weight: bold;"> Find us on Facebook</span></a>
+  <br />
+  <a href="index.cfm%3Fevent=sitemap.html" title="">Sitemap</a>&nbsp;&nbsp;&bull;&nbsp;
+  <a href="index.cfm%3Fevent=privacypolicy.html" title="">Privacy Policy</a></div>
+      </div>
+    </div>
+	<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-10135356-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+
+	
+		<!--Start Kampyle Feedback Form Button--><div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.kampyle.com/"  target="kampyleWindow" id="kampylink" class="k_float k_bottom k_right" onclick="javascript:k_button.open_ff('site_code=8203542&amp;form_id=33491&amp;lang=en');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"/></a></div>
+		<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+		<!--End Kampyle Feedback Form Button-->
+	
+  </body>
+</html>
