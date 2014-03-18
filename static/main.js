@@ -16,9 +16,9 @@ function updateModifyType(){
 	var yearField = "selectVehicleYear2";
 	var modelField = "selectVehicleModel2";
 	var mountField = "selectVehicleMount2";
-	
+
 	var modifyType = document.getElementById("modifyType");
-	
+
 	if(modifyType.checked){
 		document.getElementById(mountField).disabled = false;
 		document.getElementById(makeField).disabled = false;
@@ -28,9 +28,9 @@ function updateModifyType(){
 		document.getElementById(mountField).disabled = true;
 		document.getElementById(makeField).disabled = true;
 		document.getElementById(yearField).disabled = true;
-		document.getElementById(modelField).disabled = true;			
+		document.getElementById(modelField).disabled = true;
 	}
-	
+
 }
 
 function getYears2(){
@@ -43,38 +43,38 @@ function getYears2(){
 	// create logging function
 	var myOnLog = function(msg){
 	}
-	
+
 	// create completion function
 	var myOnComplete = function(responseText, responseXML){
 
-		//document.getElementById('outputText').value = responseText;				
+		//document.getElementById('outputText').value = responseText;
 		var modelNodes = responseXML.getElementsByTagName('vehicle-year');
 		var modelNode = '';
 		var formObject = document.getElementById(yearField);
-		
+
 		var i = 0;
 		var formOption= '';
 		var yearName = '';
 		var yearValue = '';
-			
+
 		//remove the make
 		document.getElementById(makeField).options.length=0;
-		
+
 		//go through and add all the current makes
 		formObject.options.length=0;
-		formObject.options.length=modelNodes.length;						
+		formObject.options.length=modelNodes.length;
 		for(i=0;i<modelNodes.length;i++){
 			modelNode = modelNodes[i];
 			yearName = modelNode.getElementsByTagName('year')[0].firstChild.nodeValue;
-			yearValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
+			yearValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;
 			formOption = new Option(yearName,yearValue);
 			formObject.options[i] = formOption;
 		}
-		
+
 		//refresh the models
 		getMakes2();
-		
-		
+
+
 	}
 
 	// create provider instance; wire events
@@ -98,38 +98,38 @@ function getMakes2(){
 	// create logging function
 	var myOnLog = function(msg){
 	}
-	
+
 	// create completion function
 	var myOnComplete = function(responseText, responseXML){
 
-		//document.getElementById('outputText').value = responseText;				
+		//document.getElementById('outputText').value = responseText;
 		var modelNodes = responseXML.getElementsByTagName('vehicle-make');
 		var modelNode = '';
 		var formObject = document.getElementById(makeField);
-		
+
 		var i = 0;
 		var formOption= '';
 		var makeName = '';
 		var makeValue = '';
-			
+
 		//remove the model
 		document.getElementById(modelField).options.length=0;
-		
+
 		//go through and add all the current makes
 		formObject.options.length=0;
-		formObject.options.length=modelNodes.length;						
+		formObject.options.length=modelNodes.length;
 		for(i=0;i<modelNodes.length;i++){
 			modelNode = modelNodes[i];
 			makeName = modelNode.getElementsByTagName('make')[0].firstChild.nodeValue;
-			makeValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
+			makeValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;
 			formOption = new Option(makeName,makeValue);
 			formObject.options[i] = formOption;
 		}
-		
+
 		//refresh the models
 		getModels2();
-		
-		
+
+
 	}
 
 	// create provider instance; wire events
@@ -155,38 +155,38 @@ function getModels2(){
 	// create logging function
 	var myOnLog = function(msg){
 	}
-	
+
 	// create completion function
 	var myOnComplete = function(responseText, responseXML){
 
-		//document.getElementById('outputText').value = responseText;				
+		//document.getElementById('outputText').value = responseText;
 		var modelNodes = responseXML.getElementsByTagName('model');
 		var modelNode = '';
 		var formObject = document.getElementById(modelField);
-		
+
 		var i = 0;
 		var formOption= '';
 		var modelName = '';
 		var modelValue = '';
-			
+
 		//remove the model
 		document.getElementById(styleField).options.length=0;
-		
+
 		//go through and add all the current models
 		formObject.options.length=0;
-		formObject.options.length=modelNodes.length;						
+		formObject.options.length=modelNodes.length;
 		for(i=0;i<modelNodes.length;i++){
 			modelNode = modelNodes[i];
 			modelName = modelNode.getElementsByTagName('name')[0].firstChild.nodeValue;
-			modelValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
+			modelValue = modelNode.getElementsByTagName('id')[0].firstChild.nodeValue;
 			formOption = new Option(modelName,modelValue);
 			formObject.options[i] = formOption;
 		}
-		
+
 		//refresh the models
 		getStyles2();
-		
-		
+
+
 	}
 
 	// create provider instance; wire events
@@ -209,7 +209,7 @@ function getStyles2(){
 	var modelField = "selectVehicleModel2";
 	var styleField = "selectVehicleStyle2";
 	var mountField = "selectVehicleMount2";
-	
+
 	// create logging function
 	var myOnLog = function(msg){
 	}
@@ -219,26 +219,26 @@ function getStyles2(){
 		var vehicleTypeNodes = responseXML.getElementsByTagName('vehicle-style');
 		var vehicleTypeNode = '';
 		var formObject = document.getElementById(styleField);
-		
+
 		var i = 0;
 		var formOption= '';
 		var vehicleTypeModel = '';
 		var vehicleTypeValue = '';
-		
-		
+
+
 		//go through and add all the yearsresponseXML
 		formObject.options.length=0;
-		formObject.options.length=vehicleTypeNodes.length;						
+		formObject.options.length=vehicleTypeNodes.length;
 		for(i=0;i<vehicleTypeNodes.length;i++){
 			vehicleTypeNode = vehicleTypeNodes[i];
-			vehicleTypeModel = vehicleTypeNode.getElementsByTagName('vstyle')[0].firstChild.nodeValue;					
-			vehicleTypeValue = vehicleTypeNode.getElementsByTagName('id')[0].firstChild.nodeValue;				
+			vehicleTypeModel = vehicleTypeNode.getElementsByTagName('vstyle')[0].firstChild.nodeValue;
+			vehicleTypeValue = vehicleTypeNode.getElementsByTagName('id')[0].firstChild.nodeValue;
 			formOption = new Option(vehicleTypeModel,vehicleTypeValue);
 			formObject.options[i] = formOption;
 		}
-		
-		
-		
+
+
+
 	}
 
 
@@ -247,14 +247,14 @@ function getStyles2(){
 	provider.onComplete = myOnComplete;
 	provider.onLog = myOnLog;
 	provider.onError = myOnLog;
-	
+
 	var yearId = document.getElementById(yearField).options[document.getElementById(yearField).selectedIndex].value;
 	var makeId = document.getElementById(makeField).options[document.getElementById(makeField).selectedIndex].value;
 	var modelId = document.getElementById(modelField).options[document.getElementById(modelField).selectedIndex].value;
 	var mountid = document.getElementById(mountField).options[document.getElementById(mountField).selectedIndex].value;
 	provider.submit("index.cfm?event=stylexml&year=" + yearId + "&make=" + makeId + "&model=" + modelId + "&mount=" + mountid);
-	
-	
+
+
 }
 
 
@@ -308,11 +308,13 @@ jQuery.fn.simpleAccordion = function() {
     $(".fade-hover").hoverIntent(function() { $(this).fadeTo("fast", 0.5); }, function() { $(this).fadeTo("fast", 1.0); });
     $(".lo").hoverIntent(function() { $(this).removeClass("lo").addClass("hi"); }, function() { $(this).removeClass("hi").addClass("lo"); });
 
-  
+
     $(".glossary").each(function() { $(this).attr("rel", "shadowbox;width=400;height=400;"); $(this).attr("href", "index.cfm?event=glossary.term&term=" + $(this).text()); $(this).attr("title", $(this).text()); });
-  
+
+    $('a[href=http://www.buycurthitches.com/]').closest('tr').remove();
+
     Shadowbox.init();
-    
+
     $("#faq-menu").simpleAccordion();
   });
 })(jQuery);
