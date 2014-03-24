@@ -42,3 +42,8 @@ func Index(rw http.ResponseWriter, req *http.Request) {
 	rw.Header().Set("Content-Type", ct)
 	rw.Write(contents)
 }
+
+func IndexRedirect(rw http.ResponseWriter, req *http.Request) {
+	http.Redirect(rw, req, "/", http.StatusMovedPermanently)
+	return
+}
