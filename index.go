@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	listenAddr = flag.String("http", "3000", "http listen address")
+	listenAddr = flag.String("http", ":3000", "http listen address")
 )
 
 var m *martini.Martini
@@ -43,5 +43,5 @@ func main() {
 
 	m.Action(r.Handle)
 
-	log.Println(http.ListenAndServe("127.0.0.1:"+*listenAddr, m))
+	log.Println(http.ListenAndServe(*listenAddr, m))
 }
