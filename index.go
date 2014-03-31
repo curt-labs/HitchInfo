@@ -43,5 +43,5 @@ func main() {
 
 	m.Action(r.Handle)
 
-	log.Println(http.ListenAndServe(":"+*listenAddr, m))
+	log.Println(http.ListenAndServe("127.0.0.1:"+*listenAddr, m))
 }
