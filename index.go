@@ -3,6 +3,8 @@ package main
 import (
 	"flag"
 	"github.com/codegangsta/martini"
+	"log"
+	"net/http"
 	// "github.com/codegangsta/martini-contrib/gzip"
 	"github.com/curt-labs/HitchInfo/controllers"
 	"os"
@@ -41,5 +43,5 @@ func main() {
 
 	m.Action(r.Handle)
 
-	m.Run()
+	log.Println(http.ListenAndServe(":"+*listenAddr, m))
 }
