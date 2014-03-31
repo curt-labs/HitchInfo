@@ -34,6 +34,7 @@ func main() {
 
 	r := martini.NewRouter()
 
+	// r.Get("/replace", controllers.MassReplace)
 	r.Get("/index.cfm", controllers.IndexRedirect)
 
 	r.Get("/(.*)", controllers.Index)
