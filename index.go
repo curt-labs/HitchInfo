@@ -12,6 +12,7 @@ import (
 
 var (
 	listenAddr = flag.String("http", ":3000", "http listen address")
+	port       = os.Getenv("PORT")
 )
 
 var m *martini.Martini
@@ -26,7 +27,10 @@ func main() {
 
 	m = martini.New()
 
-	os.Setenv("PORT", *listenAddr)
+	// os.Setenv("PORT", *listenAddr)
+	if port == "" {
+		port = *listenAddr
+	}
 
 	// Setup Middleware
 	m.Use(martini.Recovery())
@@ -43,5 +47,5 @@ func main() {
 
 	m.Action(r.Handle)
 
-	log.Println(http.ListenAndServe(*listenAddr, m))
+	log.Println(http.ListenAndServe(port, m))
 }
